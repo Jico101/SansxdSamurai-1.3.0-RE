@@ -1,0 +1,3210 @@
+# StringFog strings descifradas — SansxdSamurai-1.3.0 (com.samurai.*)
+# Algoritmo: XOR cíclico data[i] ^ key[i %% len(key)], resultado UTF-8
+# (StringFogImpl.java verificado en jadx_24/sources/com/github/megatronking/stringfog/xor/)
+# Archivos con llamadas: 54 | Strings descifradas: 3151
+
+=== com/samurai/vengine/ui/icons/ModMenuIcons.java ===
+  L21: M7.5 5.6L5 7L6.4 4.5L5 2L7.5 3.4L10 2L8.6 4.5L10 7L7.5 5.6ZM19.5 15.4L22 14L20.6 16.5L22 19L19.5 17.6L17 19L18.4 16.5L17 14L19.5 15.4ZM22 2L20.6 4.5L22 7L19.5 5.6L17 7L18.4 4.5L17 2L19.5 3.4L22 2ZM14.37 7.29C13.98 6.9 13.35 6.9 12.96 7.29L1.29 18.96C0.9 19.35 0.9 19.98 1.29 20.37L3.63 22.71C4.02 23.1 4.65 23.1 5.04 22.71L16.7 11.05C17.09 10.66 17.09 10.03 16.7 9.64L14.37 7.29ZM13.34 12.78L11.22 10.66L13.66 8.22L15.78 10.34L13.34 12.78Z
+  L22: M12 2L1 7L12 12L23 7L12 2ZM3 11.09L12 15.18L21 11.09L23 12L12 17L1 12L3 11.09ZM3 16.09L12 20.18L21 16.09L23 17L12 22L1 17L3 16.09Z
+  L23: M3 17V19H9V17L3 17zM3 5V7H13L13 5L3 5zM13 21V19H21V17H13V15H11V21H13zM7 9V11L3 11V13H7V15H9L9 9L7 9zM21 13V11L11 11V13H21zM15 9H17L17 7H21L21 5H17L17 3H15V9z
+  L24: M22.7 19L13.6 9.9C14.5 7.6 14 4.9 12.1 3C10.1 1 7.1 0.6 4.7 1.7L9 6L6 9L1.6 4.7C0.4 7.1 0.9 10.1 2.9 12.1C4.8 14 7.5 14.5 9.8 13.6L18.9 22.7C19.3 23.1 19.9 23.1 20.3 22.7L22.6 20.4C23.1 20 23.1 19.3 22.7 19z
+  L25: M17.65 6.35C16.2 4.9 14.21 4 12 4C7.58 4 4.01 7.58 4.01 12C4.01 16.42 7.58 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35z
+  L26: M3 3V11H11L11 3L3 3zM9 9L5 9L5 5H9V9zM3 13V21H11V13L3 13zM9 19L5 19V15H9V19zM13 3V11H21L21 3H13zM19 9H15L15 5H19V9zM13 13V21H21V13H13zM19 19H15V15H19V19z
+  L27: M19.14 12.94C19.18 12.64 19.2 12.33 19.2 12C19.2 11.68 19.18 11.36 19.13 11.06L21.16 9.48C21.34 9.34 21.39 9.07 21.28 8.87L19.36 5.55C19.24 5.33 18.99 5.26 18.77 5.33L16.38 6.29C15.88 5.91 15.35 5.59 14.76 5.35L14.4 2.81C14.36 2.57 14.16 2.4 13.92 2.4H10.08C9.84 2.4 9.65 2.57 9.61 2.81L9.25 5.35C8.66 5.59 8.12 5.92 7.63 6.29L5.24 5.33C5.02 5.25 4.77 5.33 4.65 5.55L2.74 8.87C2.62 9.08 2.66 9.34 2.86 9.48L4.89 11.06C4.84 11.36 4.8 11.69 4.8 12C4.8 12.31 4.82 12.64 4.87 12.94L2.84 14.52C2.66 14.66 2.61 14.93 2.72 15.13L4.64 18.45C4.76 18.67 5.01 18.74 5.23 18.67L7.62 17.71C8.12 18.09 8.65 18.41 9.24 18.65L9.6 21.19C9.65 21.43 9.84 21.6 10.08 21.6H13.92C14.16 21.6 14.36 21.43 14.39 21.19L14.75 18.65C15.34 18.41 15.88 18.09 16.37 17.71L18.76 18.67C18.98 18.75 19.23 18.67 19.35 18.45L21.27 15.13C21.39 14.91 21.34 14.66 21.15 14.52L19.14 12.94zM12 15.6C10.02 15.6 8.4 13.98 8.4 12C8.4 10.02 10.02 8.4 12 8.4C13.98 8.4 15.6 10.02 15.6 12C15.6 13.98 13.98 15.6 12 15.6z
+  L28: M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12z
+  L29: M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z
+  L30: M4 18L12.5 12L4 6V18ZM13 6V18L21.5 12L13 6Z
+  L31: M9.4 16.6L4.8 12L9.4 7.4L8 6L2 12L8 18L9.4 16.6ZM14.6 16.6L19.2 12L14.6 7.4L16 6L22 12L16 18L14.6 16.6Z
+  L32: M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM16.2 16.2L11 13V7H12.5V12.2L17 14.9L16.2 16.2Z
+  L33: M12 8C9.79 8 8 9.79 8 12C8 14.21 9.79 16 12 16C14.21 16 16 14.21 16 12C16 9.79 14.21 8 12 8ZM20.94 11C20.48 6.83 17.17 3.52 13 3.06V1H11V3.06C6.83 3.52 3.52 6.83 3.06 11H1V13H3.06C3.52 17.17 6.83 20.48 11 20.94V23H13V20.94C17.17 20.48 20.48 17.17 20.94 13H23V11H20.94ZM12 19C8.13 19 5 15.87 5 12C5 8.13 8.13 5 12 5C15.87 5 19 8.13 19 12C19 15.87 15.87 19 12 19Z
+  L40: Filled.Tune
+  L40: M3 17V19H9V17L3 17zM3 5V7H13L13 5L3 5zM13 21V19H21V17H13V15H11V21H13zM7 9V11L3 11V13H7V15H9L9 9L7 9zM21 13V11L11 11V13H21zM15 9H17L17 7H21L21 5H17L17 3H15V9z
+  L48: Filled.Build
+  L48: M22.7 19L13.6 9.9C14.5 7.6 14 4.9 12.1 3C10.1 1 7.1 0.6 4.7 1.7L9 6L6 9L1.6 4.7C0.4 7.1 0.9 10.1 2.9 12.1C4.8 14 7.5 14.5 9.8 13.6L18.9 22.7C19.3 23.1 19.9 23.1 20.3 22.7L22.6 20.4C23.1 20 23.1 19.3 22.7 19z
+  L56: Filled.Refresh
+  L56: M17.65 6.35C16.2 4.9 14.21 4 12 4C7.58 4 4.01 7.58 4.01 12C4.01 16.42 7.58 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35z
+  L64: Filled.GridView
+  L64: M3 3V11H11L11 3L3 3zM9 9L5 9L5 5H9V9zM3 13V21H11V13L3 13zM9 19L5 19V15H9V19zM13 3V11H21L21 3H13zM19 9H15L15 5H19V9zM13 13V21H21V13H13zM19 19H15V15H19V19z
+  L72: Filled.Settings
+  L72: M19.14 12.94C19.18 12.64 19.2 12.33 19.2 12C19.2 11.68 19.18 11.36 19.13 11.06L21.16 9.48C21.34 9.34 21.39 9.07 21.28 8.87L19.36 5.55C19.24 5.33 18.99 5.26 18.77 5.33L16.38 6.29C15.88 5.91 15.35 5.59 14.76 5.35L14.4 2.81C14.36 2.57 14.16 2.4 13.92 2.4H10.08C9.84 2.4 9.65 2.57 9.61 2.81L9.25 5.35C8.66 5.59 8.12 5.92 7.63 6.29L5.24 5.33C5.02 5.25 4.77 5.33 4.65 5.55L2.74 8.87C2.62 9.08 2.66 9.34 2.86 9.48L4.89 11.06C4.84 11.36 4.8 11.69 4.8 12C4.8 12.31 4.82 12.64 4.87 12.94L2.84 14.52C2.66 14.66 2.61 14.93 2.72 15.13L4.64 18.45C4.76 18.67 5.01 18.74 5.23 18.67L7.62 17.71C8.12 18.09 8.65 18.41 9.24 18.65L9.6 21.19C9.65 21.43 9.84 21.6 10.08 21.6H13.92C14.16 21.6 14.36 21.43 14.39 21.19L14.75 18.65C15.34 18.41 15.88 18.09 16.37 17.71L18.76 18.67C18.98 18.75 19.23 18.67 19.35 18.45L21.27 15.13C21.39 14.91 21.34 14.66 21.15 14.52L19.14 12.94zM12 15.6C10.02 15.6 8.4 13.98 8.4 12C8.4 10.02 10.02 8.4 12 8.4C13.98 8.4 15.6 10.02 15.6 12C15.6 13.98 13.98 15.6 12 15.6z
+  L80: Filled.Close
+  L80: M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12z
+  L88: Filled.Person
+  L88: M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z
+  L96: Filled.FastForward
+  L96: M4 18L12.5 12L4 6V18ZM13 6V18L21.5 12L13 6Z
+  L104: Filled.Code
+  L104: M9.4 16.6L4.8 12L9.4 7.4L8 6L2 12L8 18L9.4 16.6ZM14.6 16.6L19.2 12L14.6 7.4L16 6L22 12L16 18L14.6 16.6Z
+  L112: Filled.Schedule
+  L112: M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM16.2 16.2L11 13V7H12.5V12.2L17 14.9L16.2 16.2Z
+  L120: Filled.GpsFixed
+  L120: M12 8C9.79 8 8 9.79 8 12C8 14.21 9.79 16 12 16C14.21 16 16 14.21 16 12C16 9.79 14.21 8 12 8ZM20.94 11C20.48 6.83 17.17 3.52 13 3.06V1H11V3.06C6.83 3.52 3.52 6.83 3.06 11H1V13H3.06C3.52 17.17 6.83 20.48 11 20.94V23H13V20.94C17.17 20.48 20.48 17.17 20.94 13H23V11H20.94ZM12 19C8.13 19 5 15.87 5 12C5 8.13 8.13 5 12 5C15.87 5 19 8.13 19 12C19 15.87 15.87 19 12 19Z
+  L128: Filled.AutoFixHigh
+  L128: M7.5 5.6L5 7L6.4 4.5L5 2L7.5 3.4L10 2L8.6 4.5L10 7L7.5 5.6ZM19.5 15.4L22 14L20.6 16.5L22 19L19.5 17.6L17 19L18.4 16.5L17 14L19.5 15.4ZM22 2L20.6 4.5L22 7L19.5 5.6L17 7L18.4 4.5L17 2L19.5 3.4L22 2ZM14.37 7.29C13.98 6.9 13.35 6.9 12.96 7.29L1.29 18.96C0.9 19.35 0.9 19.98 1.29 20.37L3.63 22.71C4.02 23.1 4.65 23.1 5.04 22.71L16.7 11.05C17.09 10.66 17.09 10.03 16.7 9.64L14.37 7.29ZM13.34 12.78L11.22 10.66L13.66 8.22L15.78 10.34L13.34 12.78Z
+  L136: Filled.Layers
+  L136: M12 2L1 7L12 12L23 7L12 2ZM3 11.09L12 15.18L21 11.09L23 12L12 17L1 12L3 11.09ZM3 16.09L12 20.18L21 16.09L23 17L12 22L1 17L3 16.09Z
+=== com/samurai/vengine/ui/theme/ThemeKt.java ===
+  L107: content
+  L109: C(Theme)P(1,2)108@4008L7,120@4469L158:Theme.kt#bz32bg
+  L139: com.samurai.vengine.ui.theme.Theme (Theme.kt:97)
+  L142: 100@3800L7
+  L147: CC:CompositionLocal.kt#9igjgp
+  L155: CC:CompositionLocal.kt#9igjgp
+  L161: 111@4108L349
+=== com/samurai/vengine/ui/theme/TypeKt.java ===
+  L33: context
+  L38: context
+=== com/samurai/vengine/app/FacebookWebLogin.java ===
+  L16: SamuraiFacebookLogin
+  L17: com.miniclip.eightballpool
+  L18: com.facebook.LoginFragment:Request
+  L19: com.facebook.login.LoginClient$Request
+  L20: com.facebook.login.LoginBehavior
+  L21: WEB_VIEW_ONLY
+  L32: com.facebook.FacebookSdk
+  L32: isInitialized
+  L36: [FB] configuration-deferred sdkNotInitialized=true
+  L44: [FB] sdk-webview-mode-ready behavior=WEB_VIEW_ONLY scope=facebook-request
+  L47: configuration-failed
+  L54: Unsupported Facebook request
+  L56: isInstagramLogin
+  L61: loginBehavior
+  L63: Unsupported Facebook behavior field
+  L67: getLoginBehavior
+  L70: Facebook WebView behavior was not applied
+  L77: [FB] 
+  L77:  cause=
+  L87: com.facebook.FacebookActivity
+  L95: request
+  L97: [FB] login-request-missing
+  L101: [FB] login-request-unchanged targetNotFacebook=true
+  L104: request
+  L107: [FB] login-request-prepared behavior=WEB_VIEW_ONLY callbackSource=facebook-sdk
+  L110: login-request-preparation-failed
+=== com/samurai/vengine/app/GoogleSignInHelper.java ===
+  L31: com.miniclip.eightballpool
+  L32: samurai.gsi.request_id
+  L33: samurai.gsi.client_id
+  L34: samurai.gsi.nonce
+  L35: samurai.gsi.state
+  L36: 697261581904-997ch5oh85im8rcq2lt172jbu92gjha6.apps.googleusercontent.com
+  L37: https://api-project-697261581904.firebaseapp.com/__/auth/handler
+  L38: SamuraiGoogleSignIn
+  L39: gsi_cached_token
+  L40: com.google.android.libraries.identity.googleid.
+  L41: com.google.android.libraries.identity.googleid.TYPE_GOOGLE_ID_TOKEN_CREDENTIAL
+  L42: com.google.android.libraries.identity.googleid.TYPE_GOOGLE_ID_TOKEN_SIWG_CREDENTIAL
+  L60: 697261581904-997ch5oh85im8rcq2lt172jbu92gjha6.apps.googleusercontent.com
+  L75: [GSI] web-activity-no-pending-request
+  L84: Missing sign-in context or callback
+  L96: [GSI] request-queued pending=
+  L98:  nonceProvided=
+  L101: [GSI] oauth-config clientSource=sdk-reference redirectSource=sdk-reference requestClientMatchesSdk=
+  L140: [GSI] request-cancelled
+  L141: User cancelled Google sign-in
+  L176: Google sign-in failed
+  L182: aud
+  L183: nonce
+  L186: [GSI] token-rejected expired=
+  L186:  audienceMatches=
+  L186:  nonceMatches=
+  L186:  issuerMatches=
+  L187: Google credential did not match the request
+  L190: [GSI] token-validated
+  L192: [GSI] token-validation-failed cause=
+  L194: Unable to validate the Google credential
+  L201: [GSI] completion-token-dispatch
+  L204: [GSI] completion-error-dispatch cancelled=
+  L218: Google sign-in completion threw after dispatch
+  L237: onError
+  L240: [GSI] framework-error-dispatched
+  L242: Unable to deliver a Google credential error
+  L249: com.google.android.libraries.identity.googleid.BUNDLE_KEY_ID
+  L249: email
+  L249: sub
+  L250: com.google.android.libraries.identity.googleid.BUNDLE_KEY_ID_TOKEN
+  L251: com.google.android.libraries.identity.googleid.BUNDLE_KEY_DISPLAY_NAME
+  L251: name
+  L252: com.google.android.libraries.identity.googleid.BUNDLE_KEY_GIVEN_NAME
+  L252: given_name
+  L253: com.google.android.libraries.identity.googleid.BUNDLE_KEY_FAMILY_NAME
+  L253: family_name
+  L254: com.google.android.libraries.identity.googleid.BUNDLE_KEY_GOOGLE_ID_TOKEN_SUBTYPE
+  L255: picture
+  L257: com.google.android.libraries.identity.googleid.BUNDLE_KEY_PROFILE_PICTURE_URI
+  L259: android.credentials.Credential
+  L261: android.credentials.GetCredentialResponse
+  L263: onResponse
+  L267: [GSI] framework-response-dispatched backendAcceptance=unverified
+  L269: Google credential callback threw after response dispatch
+  L278: com.google.android.gms.common.api.Status
+  L281: com.google.android.gms.auth.api.identity.SignInCredential
+  L301: Unsupported SignInCredential version
+  L304: picture
+  L305: email
+  L305: sub
+  L306: name
+  L307: given_name
+  L308: family_name
+  L322: status
+  L323: sign_in_credential
+  L325: FAILURE_RESPONSE
+  L326: ACTIVITY_REQUEST_CODE
+  L327: RESULT_DATA
+  L330: [GSI] androidx-response-queued requestCode=
+  L330:  backendAcceptance=unverified
+  L332: Google credential result receiver threw after response dispatch
+  L351: Credential too large
+  L380: iss
+  L381: https://accounts.google.com
+  L381: accounts.google.com
+  L385: [0-9]{1,20}-[A-Za-z0-9_-]{1,180}\.apps\.googleusercontent\.com
+  L390: exp
+  L397: [GSI] request-timeout
+  L398: Google sign-in timed out
+  L406: [GSI] request-not-launchable activity=
+  L406:  validClientFormat=
+  L407: Google sign-in activity or OAuth client configuration is unavailable
+  L425: [GSI] web-activity-launch-requested
+  L427: [GSI] web-activity-launch-failed cause=
+  L428: Unable to open Google sign-in
+  L433: \.
+  L435: Invalid JWT
+  L443: writeToParcel
+=== com/samurai/vengine/app/GoogleSignInHooks.java ===
+  L29: SamuraiGoogleSignIn
+  L30: com.miniclip.eightballpool
+  L31: credential
+  L32: android.credentials.ICredentialManager
+  L33: com.google.android.libraries.identity.googleid.TYPE_GOOGLE_ID_TOKEN_CREDENTIAL
+  L34: com.google.android.libraries.identity.googleid.
+  L35: com.google.android.libraries.identity.googleid.TYPE_GOOGLE_ID_TOKEN_SIWG_CREDENTIAL
+  L36: android.credentials.GetCredentialException.TYPE_USER_CANCELED
+  L37: android.credentials.GetCredentialException.TYPE_UNKNOWN
+  L50: execute
+  L51: SamuraiGoogleSignIn
+  L53: [GSI] framework-call method=
+  L55:  arity=
+  L59: clearCredentialState
+  L59: com.miniclip.eightballpool
+  L62: SamuraiGoogleSignIn
+  L62: [GSI] credential-state-cleared
+  L64: Unable to clear cached Google sign-in
+  L67: executeGetCredential
+  L67: com.miniclip.eightballpool
+  L67: android.os.ICancellationSignal
+  L68: executeGetCredential
+  L69: SamuraiGoogleSignIn
+  L69: [GSI] framework-pass-through reason=unsupported-service-signature-or-caller
+  L75: activity-not-registered-or-disabled
+  L80: SamuraiGoogleSignIn
+  L82: [GSI] framework-intercepted oauthClientSource=sdk-reference requestClientMatchesSdk=
+  L83: 697261581904-997ch5oh85im8rcq2lt172jbu92gjha6.apps.googleusercontent.com
+  L84:  nonceProvided=
+  L92: android.credentials.GetCredentialException.TYPE_USER_CANCELED
+  L92: android.credentials.GetCredentialException.TYPE_UNKNOWN
+  L94: Unable to deliver credential error
+  L103: Unable to deliver credential result
+  L104: Unable to deliver Google sign-in result
+  L111: Unable to start credential sign-in
+  L112: Unable to start Google sign-in
+  L116: [GSI] framework-pass-through reason=request-inspection-failed
+  L145: android.os.ICancellationSignal
+  L161: Google sign-in cancelled
+  L161: Google sign-in failed
+  L168: [GSI] request-getter-failed method=
+  L176: androidx.credentials.playservices.HiddenActivity
+  L178: [GSI] hidden-activity-seen
+  L184: missing-intent
+  L188: missing-extras
+  L192: TYPE
+  L193: SIGN_IN_INTENT
+  L193: BEGIN_SIGN_IN
+  L194: unsupported-flow-type
+  L196: [GSI] hidden-flow type=
+  L197: RESULT_RECEIVER
+  L199: missing-result-receiver
+  L202: ACTIVITY_REQUEST_CODE
+  L204: invalid-request-code
+  L207: REQUEST_TYPE
+  L209: com.google.android.gms.auth.api.identity.
+  L210: SIGN_IN_INTENT
+  L210: GetSignInIntentRequest
+  L210: BeginSignInRequest
+  L213: BEGIN_SIGN_IN
+  L214: requestVerifiedPhoneNumber
+  L215: getHostedDomainFilter
+  L218: verified-phone-or-hosted-domain-restriction
+  L220: getGoogleIdTokenRequestOptions
+  L221: getPasswordRequestOptions
+  L221: getPasskeysRequestOptions
+  L221: getPasskeyJsonRequestOptions
+  L222: filterByAuthorizedAccounts
+  L222: requestVerifiedPhoneNumber
+  L222: isAutoSelectEnabled
+  L222: getPreferImmediatelyAvailableCredentials
+  L222: getLinkedServiceId
+  L222: getIdTokenDepositionScopes
+  L225: begin-sign-in-restrictions
+  L227: mixed-or-disabled-google-options
+  L228: getServerClientId
+  L229: getNonce
+  L231: invalid-oauth-client-id-format
+  L233: TYPE
+  L233: BLOCKED
+  L234: [GSI] hidden-intercepted
+  L235: [GSI] hidden-client oauthClientSource=sdk-reference requestClientMatchesSdk=
+  L235: 697261581904-997ch5oh85im8rcq2lt172jbu92gjha6.apps.googleusercontent.com
+  L241: FAILURE_RESPONSE
+  L242: EXCEPTION_TYPE
+  L242: GET_CANCELED_TAG
+  L242: GET_UNKNOWN_TAG
+  L243: EXCEPTION_MESSAGE
+  L245: SamuraiGoogleSignIn
+  L245: [GSI] androidx-error-queued cancelled=
+  L247: Unable to deliver HiddenActivity error
+  L256: Unable to deliver HiddenActivity result
+  L257: Unable to deliver Google sign-in result
+  L265: Unable to start HiddenActivity sign-in
+  L266: Unable to start Google sign-in
+  L270: missing-or-unsupported-request-parcelable
+  L272: activity-not-registered-or-context-unavailable
+  L274: [GSI] hidden-pass-through reason=request-inspection-failed
+  L282: androidx.credentials.playservices.
+  L282: com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+  L282: com.google.android.gms.games.internal.v2.resolution.GamesResolutionActivity
+  L285: [GSI] provider-activity-not-intercepted class=
+  L294: siwg.
+  L297: com.google.android.libraries.identity.googleid.BUNDLE_KEY_GOOGLE_ID_TOKEN_SUBTYPE
+  L304: BUNDLE_KEY_SERVER_CLIENT_ID
+  L310: BUNDLE_KEY_NONCE
+  L316: BUNDLE_KEY_ID_TOKEN_DEPOSITION_SCOPES
+  L325: BUNDLE_KEY_HOSTED_DOMAIN_FILTER
+  L331: BUNDLE_KEY_LINKED_SERVICE_ID
+  L340: BUNDLE_KEY_REQUEST_VERIFIED_PHONE_NUMBER
+  L349: BUNDLE_KEY_AUTO_SELECT_ENABLED
+  L355: BUNDLE_KEY_FILTER_BY_AUTHORIZED_ACCOUNTS
+  L373: android.os.ServiceManager
+  L374: sCache
+  L381: getService
+  L387: Credential service is unavailable
+  L389: android.credentials.ICredentialManager$Stub
+  L389: asInterface
+  L404: [GSI] install-start sdk=
+  L406: [GSI] install-skipped reason=not-target-package
+  L411: [GSI] install-skipped reason=hidden-api-unavailable
+  L414: [GSI] reflection-unsealed
+  L416: [GSI] install-skipped reason=activity-not-registered-or-disabled
+  L422: android.app.ActivityThread
+  L423: currentActivityThread
+  L426: mInstrumentation
+  L430: ActivityThread instrumentation is unavailable
+  L436: [GSI] instrumentation-installed
+  L441: Unable to install instrumentation hook
+  L448: [GSI] credential-binder-installed
+  L451: Unable to install credential service hook
+  L454: Unable to install credential service hook
+  L463: [GSI] hooks-ready instrumentation=
+  L463:  framework=
+  L470: Unable to prepare Google sign-in hooks
+  L485: Missing sign-in options
+  L487: isSupported
+  L491: Unsupported sign-in options
+  L500: toString
+  L501: GoogleSignInCancellationSignal
+  L505: asBinder
+  L510: cancel
+  L520: equals
+  L528: hashCode
+  L537: queryLocalInterface
+  L545:  cause=
+  L559: [GSI] context-patch-skipped reason=credential-manager-unavailable
+  L562: android.credentials.CredentialManager
+  L564: [GSI] context-patch-skipped reason=unsupported-manager-class
+  L567: mService
+  L571: [GSI] context-patch-skipped reason=credential-manager-service-null
+  L577: [GSI] context-credential-manager-patched
+  L582: [GSI] context-patch-skipped reason=application-or-activity-unavailable
+  L584: Unable to patch context CredentialManager
+  L592: BUNDLE_KEY_ID_TOKEN_DEPOSITION_SCOPES
+  L608: [GSI] framework-pass-through reason=
+  L613: [GSI] hidden-pass-through reason=
+  L623: Credential service interface is unavailable
+  L633: Unsupported credential service interface
+=== com/samurai/vengine/app/GoogleSignInInstrumentation.java ===
+  L33: base
+  L40: Unable to copy Instrumentation field 
+  L52: execStartActivity
+  L58: execStartActivity
+=== com/samurai/vengine/app/GoogleSignInWebViewActivity.java ===
+  L25: https://api-project-697261581904.firebaseapp.com/__/auth/handler
+  L44: Unable to read the Google sign-in response
+  L54: registered-redirect
+  L56: accounts.google.com
+  L56: google
+  L56: other
+  L58: SamuraiGoogleSignIn
+  L58: [GSI] web-page-finished origin=
+  L63: window.location.href
+  L74: SamuraiGoogleSignIn
+  L74: [GSI] web-network-error code=
+  L75: Unable to load Google sign-in. Check your connection
+  L82: SamuraiGoogleSignIn
+  L82: [GSI] web-http-error status=
+  L83: Google rejected the web sign-in request. Embedded WebView login may not be supported
+  L90: SamuraiGoogleSignIn
+  L90: [GSI] web-ssl-error code=
+  L91: Google sign-in TLS certificate validation failed
+  L110: SamuraiGoogleSignIn
+  L110: [GSI] web-failed cancelled=
+  L110:  reason=
+  L125: https
+  L127: SamuraiGoogleSignIn
+  L127: [GSI] web-redirect-received
+  L130: https://localhost/?
+  L132: state
+  L133: Google sign-in returned an invalid state
+  L136: error
+  L138: id_token
+  L140: Google sign-in did not return an ID token
+  L149: disallowed_useragent
+  L150: other-provider-error
+  L156: invalid_client
+  L157: other-provider-error
+  L163: access_denied
+  L164: other-provider-error
+  L170: redirect_uri_mismatch
+  L171: other-provider-error
+  L177: unauthorized_client
+  L178: other-provider-error
+  L184: invalid_request
+  L185: other-provider-error
+  L191: other-provider-error
+  L194: SamuraiGoogleSignIn
+  L194: [GSI] web-oauth-error category=
+  L195: access_denied
+  L195: Google sign-in was declined or unavailable
+  L201: https
+  L217: User cancelled Google sign-in
+  L225: SamuraiGoogleSignIn
+  L225: [GSI] web-activity-created
+  L226: samurai.gsi.request_id
+  L232: samurai.gsi.state
+  L233: samurai.gsi.client_id
+  L234: samurai.gsi.nonce
+  L235: 697261581904-997ch5oh85im8rcq2lt172jbu92gjha6.apps.googleusercontent.com
+  L236: The Google sign-in SDK pair, nonce or state is invalid
+  L262: https://accounts.google.com/o/oauth2/v2/auth
+  L262: client_id
+  L262: redirect_uri
+  L262: https://api-project-697261581904.firebaseapp.com/__/auth/handler
+  L262: response_type
+  L262: id_token
+  L262: scope
+  L262: openid email profile
+  L262: prompt
+  L262: select_account
+  L262: nonce
+  L262: state
+  L263: SamuraiGoogleSignIn
+  L263: [GSI] web-auth-load-start
+  L267: Android WebView is unavailable
+  L274: Google sign-in was closed
+=== com/samurai/vengine/utils/Constants.java ===
+  L12: libsamurai.so
+  L13: com.miniclip.eightballpool
+  L20: packageName
+=== com/samurai/vengine/utils/PwfNative.java ===
+  L37: code
+  L38: message
+  L64: code
+  L65: message
+  L105: samurai
+  L113: PwfNative
+  L113: Failed to load libsamurai.so
+  L135: code
+  L136: message
+  L152: success
+  L152: seller
+  L154: name
+  L157: name
+  L158: optString(...)
+  L277: licenseKey
+  L288: PwfNative
+  L288: orljmgpg failed
+=== com/samurai/vengine/screens/modmenu/ComposableSingletons$InGameModMenuControllerKt.java ===
+  L26: C106@4550L187:InGameModMenuController.kt#pzbqk3
+  L32: com.samurai.vengine.screens.modmenu.ComposableSingletons$InGameModMenuControllerKt.lambda-1.<anonymous> (InGameModMenuController.kt:106)
+  L49: C105@4518L241:InGameModMenuController.kt#pzbqk3
+  L55: com.samurai.vengine.screens.modmenu.ComposableSingletons$InGameModMenuControllerKt.lambda-2.<anonymous> (InGameModMenuController.kt:105)
+=== com/samurai/vengine/screens/modmenu/ComposableSingletons$LoginScreenKt.java ===
+  L36: C220@8639L130:LoginScreen.kt#pzbqk3
+  L42: com.samurai.vengine.screens.modmenu.ComposableSingletons$LoginScreenKt.lambda-1.<anonymous> (LoginScreen.kt:220)
+  L44: XXXX-XXXX-XXXX
+  L59: C242@9563L38:LoginScreen.kt#pzbqk3
+  L65: com.samurai.vengine.screens.modmenu.ComposableSingletons$LoginScreenKt.lambda-2.<anonymous> (LoginScreen.kt:242)
+=== com/samurai/vengine/screens/modmenu/ComposableSingletons$ModMenuScreenKt.java ===
+  L59: $this$AnimatedVisibility
+  L60: C448@18480L154:ModMenuScreen.kt#pzbqk3
+  L62: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-1.<anonymous> (ModMenuScreen.kt:448)
+  L79: C593@23401L166:ModMenuScreen.kt#pzbqk3
+  L85: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-2.<anonymous> (ModMenuScreen.kt:593)
+  L87: Close menu
+  L102: C992@39512L60:ModMenuScreen.kt#pzbqk3
+  L108: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-3.<anonymous> (ModMenuScreen.kt:992)
+  L110: The equipped cue
+  L125: C2698@110306L437:ModMenuScreen.kt#pzbqk3
+  L131: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-4.<anonymous> (ModMenuScreen.kt:2698)
+  L136: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L139: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L163: C73@3426L9:Box.kt#2w3rfo
+  L165: C2702@110490L231:ModMenuScreen.kt#pzbqk3
+  L166: JOIN
+  L187: C3557@141136L135:ModMenuScreen.kt#pzbqk3
+  L196: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-5.<anonymous> (ModMenuScreen.kt:3557)
+  L213: C3631@143115L15:ModMenuScreen.kt#pzbqk3
+  L219: com.samurai.vengine.screens.modmenu.ComposableSingletons$ModMenuScreenKt.lambda-6.<anonymous> (ModMenuScreen.kt:3631)
+=== com/samurai/vengine/screens/modmenu/CueSkinPreviewState.java ===
+  L40: skin
+  L57: skin
+=== com/samurai/vengine/screens/modmenu/InGameModMenuController.java ===
+  L44: samurai_in_game_mod_menu
+  L45: InGameModMenu
+  L53: activity
+  L59: activity
+  L65: activity
+  L71: activity
+  L77: activity
+  L78: outState
+  L83: activity
+  L88: activity
+  L152: view
+  L153: viewTreeOwner
+  L201: view
+  L202: viewTreeOwner
+  L268: Unable to attach the in-game menu view
+  L283: getName(...)
+  L284: androidx.credentials.playservices.
+  L284: com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+  L284: com.facebook.FacebookActivity
+  L284: com.facebook.CustomTabMainActivity
+  L284: com.facebook.CustomTabActivity
+  L317: $entry
+  L318: $activity
+  L337: application
+  L338: SamuraiGoogleSignIn
+  L338: [GSI] bootstrap-enter build=gsi-sdkpair-v3
+  L348: SamuraiFacebookLogin
+  L348: [FB] bootstrap-enter strategy=facebook-sdk-webview
+  L352: SamuraiGoogleSignIn
+  L352: [GSI] bootstrap-ready
+  L358: activity
+  L401: Unable to create the in-game menu view
+  L406: activity
+  L425: activity
+  L440: activity
+=== com/samurai/vengine/screens/modmenu/LicenseAuth$verify$raw$1.java ===
+  L40: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/LicenseAuth.java ===
+  L45: samurai_license
+  L46: license_key
+  L47: AndroidKeyStore
+  L48: samurai_license_key_v1
+  L81: Failed requirement.
+  L83: AES/GCM/NoPadding
+  L88: doFinal(...)
+  L90: UTF_8
+  L107: AES/GCM/NoPadding
+  L110: UTF_8
+  L112: getBytes(...)
+  L116: getIV(...)
+  L141: AES
+  L142: GCM
+  L142: NoPadding
+  L144: generateKey(...)
+  L149: context
+  L162: key
+  L170: context
+  L193: raw
+  L198: context
+  L199: key
+  L237: Enter your license key
+  L250: call to 'resume' before 'invoke' with coroutine
+  L257: Login service unavailable. Merge libsamurai.so and retry.
+  L262: success
+  L263: message
+  L269: error_code
+  L273: Login failed
+  L279: Login succeeded but no active session
+  L287: Login failed (bad server reply)
+=== com/samurai/vengine/screens/modmenu/LicenseConfig.java ===
+  L13: SAMURAI
+  L14: V1.3
+=== com/samurai/vengine/screens/modmenu/LoginScreenKt$LoginScreen$submit$1.java ===
+  L61: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/LoginScreenKt.java ===
+  L188: call to 'resume' before 'invoke' with coroutine
+  L214: C(LoginDoorIcon)P(0:c#ui.graphics.Color,1:c#ui.unit.Dp)331@13446L820,331@13407L859:LoginScreen.kt#pzbqk3
+  L227: com.samurai.vengine.screens.modmenu.LoginDoorIcon (LoginScreen.kt:330)
+  L231: CC(remember):LoginScreen.kt#9igjgp
+  L247: $this$Canvas
+  L297: state
+  L299: C(LoginScreen)62@2810L7,63@2834L24,64@2901L7,66@2925L45,67@2991L34,68@3043L42,74@3355L980,154@5948L6276:LoginScreen.kt#pzbqk3
+  L311: com.samurai.vengine.screens.modmenu.LoginScreen (LoginScreen.kt:61)
+  L314: CC:CompositionLocal.kt#9igjgp
+  L319: CC(rememberCoroutineScope)489@20472L144:Effects.kt#9igjgp
+  L321: CC(remember):Composables.kt#9igjgp
+  L332: CC:CompositionLocal.kt#9igjgp
+  L337: CC(remember):LoginScreen.kt#9igjgp
+  L346: CC(remember):LoginScreen.kt#9igjgp
+  L355: CC(remember):LoginScreen.kt#9igjgp
+  L370: 143@5556L139
+  L415: $this$BoxWithConstraints
+  L416: C163@6304L5914:LoginScreen.kt#pzbqk3
+  L427: com.samurai.vengine.screens.modmenu.LoginScreen.<anonymous> (LoginScreen.kt:160)
+  L458: C175@6781L21,173@6701L5507:LoginScreen.kt#pzbqk3
+  L464: com.samurai.vengine.screens.modmenu.LoginScreen.<anonymous>.<anonymous> (LoginScreen.kt:173)
+  L477: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L480: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L504: C79@3979L9:Column.kt#2w3rfo
+  L506: C178@6904L375,187@7296L40,188@7353L295,196@7665L40,197@7722L271,204@8010L41,205@8068L238,212@8323L40,246@9753L703,215@8460L117,213@8380L2292,274@11089L41,279@11362L280,275@11147L1047:LoginScreen.kt#pzbqk3
+  L507: SAMURAI • V1.3
+  L510: Welcome back
+  L512: Enter your license key to continue
+  L515: LICENSE KEY
+  L524: CC(remember):LoginScreen.kt#9igjgp
+  L542: it
+  L568: C236@9268L359:LoginScreen.kt#pzbqk3
+  L574: com.samurai.vengine.screens.modmenu.LoginScreen.<anonymous>.<anonymous>.<anonymous>.<anonymous> (LoginScreen.kt:236)
+  L612: 265@10731L40,266@10792L262
+  L649: $this$Button
+  L650: C289@11804L42,290@11867L40,291@11928L248:LoginScreen.kt#pzbqk3
+  L656: com.samurai.vengine.screens.modmenu.LoginScreen.<anonymous>.<anonymous>.<anonymous>.<anonymous> (LoginScreen.kt:289)
+  L782: Enter your license key
+  L795: C(PasteIcon)P(1:c#ui.graphics.Color,0:c#ui.unit.Dp)306@12396L864,306@12357L903:LoginScreen.kt#pzbqk3
+  L808: com.samurai.vengine.screens.modmenu.PasteIcon (LoginScreen.kt:305)
+  L812: CC(remember):LoginScreen.kt#9igjgp
+  L828: $this$Canvas
+=== com/samurai/vengine/screens/modmenu/MenuTab.java ===
+  L31: COMBAT
+  L31: Combat
+  L46: VISUALS
+  L46: Visuals
+  L50: QUEUE
+  L50: Queue
+  L51: MISC
+  L51: Misc
+  L52: SETTING
+  L52: Settings
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$CueSkinGallery$1$2$1$1.java ===
+  L54: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$FloatingMenuButtons$2$1.java ===
+  L71: change
+  L83: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$MenuBody$2$1.java ===
+  L85: call to 'resume' before 'invoke' with coroutine
+  L117: call to 'resume' before 'invoke' with coroutine
+  L154: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$MenuBody$3$1.java ===
+  L48: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$MiscTab$1$1.java ===
+  L76: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$ModMenuScreen$4$1.java ===
+  L47: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$ModMenuScreen$5$1.java ===
+  L60: Session ended
+  L74: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt$TableSkinGallery$1$1$1$1.java ===
+  L54: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/ModMenuScreenKt.java ===
+  L236: M1
+  L236: 100
+  L236: M2
+  L236: 200
+  L236: M3
+  L236: 1K
+  L236: M4
+  L236: 5K
+  L236: M5
+  L236: 20K
+  L236: M6
+  L236: 100K
+  L236: M7
+  L236: 200K
+  L236: M8
+  L236: 500K
+  L236: M9
+  L236: 1M
+  L236: M10
+  L236: 2M
+  L236: M11
+  L236: 5M
+  L236: M12
+  L236: 8M
+  L236: M13
+  L236: 10M
+  L236: M14
+  L236: 20M
+  L236: M15
+  L236: 30M
+  L236: M16
+  L236: 50M
+  L236: M17
+  L236: 200M
+  L237: 100
+  L237: 500
+  L237: 2.5K
+  L237: 10K
+  L237: 50K
+  L237: 100K
+  L237: 500K
+  L237: 2.5M
+  L237: 10M
+  L238: Off
+  L238: Trail 55
+  L238: Trail 119
+  L238: Trail 122
+  L238: Trail 68
+  L238: Trail 78
+  L238: Trail 112
+  L238: Trail 116
+  L238: Trail 114
+  L238: Trail 109
+  L238: Trail 106
+  L238: Trail 102
+  L238: Trail 82
+  L238: Trail 84
+  L239: Off
+  L239: Spark Burst
+  L239: Shockwave Ring
+  L239: Star Flash
+  L239: Particle Spray
+  L239: Ice Shatter
+  L239: Plasma Splash
+  L239: Electric Rail
+  L240: Off
+  L240: Rail Sparks
+  L240: Cushion Shockwave
+  L240: Diamond Burst
+  L240: Rail Flash
+  L240: Frost Scatter
+  L240: Plasma Rail
+  L240: Arc Burst
+  L241: Off
+  L241: Pocket Effect 1
+  L241: Pocket Effect 2
+  L241: Pocket Effect 3
+  L241: Pocket Effect 5
+  L283: call to 'resume' before 'invoke' with coroutine
+  L348: call to 'resume' before 'invoke' with coroutine
+  L392: call to 'resume' before 'invoke' with coroutine
+  L399: getAbsolutePath(...)
+  L450: License expired
+  L463: call to 'resume' before 'invoke' with coroutine
+  L474: License expired
+  L525: C3121@123613L3750:ModMenuScreen.kt#pzbqk3
+  L531: com.samurai.vengine.screens.modmenu.SegmentedControl.<anonymous> (ModMenuScreen.kt:3121)
+  L539: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L542: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L566: C79@3979L9:Column.kt#2w3rfo
+  L568: C3122@123701L175,3128@123889L3464:ModMenuScreen.kt#pzbqk3
+  L577: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L580: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L604: C92@4661L9:Row.kt#2w3rfo
+  L606: C:ModMenuScreen.kt#pzbqk3
+  L608: *3134@124188L186,3138@124412L169,3142@124619L168,3146@124827L172,3154@125195L21,3150@125020L2301
+  L618: segmentContainerColor
+  L619: segmentIconColor
+  L620: segmentTextColor
+  L621: segmentBorderColor
+  L625: CC(remember):ModMenuScreen.kt#9igjgp
+  L665: C3162@125592L1707:ModMenuScreen.kt#pzbqk3
+  L671: com.samurai.vengine.screens.modmenu.SegmentedControl.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:3162)
+  L681: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L684: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L708: C79@3979L9:Column.kt#2w3rfo
+  L710: C3184@126843L40,3185@126912L361:ModMenuScreen.kt#pzbqk3
+  L715: 3169@126030L388
+  L721: 3177@126488L296
+  L728: ROOT
+  L730: toUpperCase(...)
+  L808: call to 'resume' before 'invoke' with coroutine
+  L852: call to 'resume' before 'invoke' with coroutine
+  L895: call to 'resume' before 'invoke' with coroutine
+  L902: getAbsolutePath(...)
+  L938: C(ActionButton)P(1)2848@114974L687:ModMenuScreen.kt#pzbqk3
+  L978: com.samurai.vengine.screens.modmenu.ActionButton (ModMenuScreen.kt:2847)
+  L1006: C2855@115268L387:ModMenuScreen.kt#pzbqk3
+  L1012: com.samurai.vengine.screens.modmenu.ActionButton.<anonymous> (ModMenuScreen.kt:2855)
+  L1019: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L1022: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1046: C73@3426L9:Box.kt#2w3rfo
+  L1048: C2861@115454L191:ModMenuScreen.kt#pzbqk3
+  L1112: com.samurai.vengine.screens.modmenu.ActionButton (ModMenuScreen.kt:2847)
+  L1140: C2855@115268L387:ModMenuScreen.kt#pzbqk3
+  L1146: com.samurai.vengine.screens.modmenu.ActionButton.<anonymous> (ModMenuScreen.kt:2855)
+  L1153: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L1156: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1180: C73@3426L9:Box.kt#2w3rfo
+  L1182: C2861@115454L191:ModMenuScreen.kt#pzbqk3
+  L1206: com.samurai.vengine.screens.modmenu.ActionButton (ModMenuScreen.kt:2847)
+  L1234: C2855@115268L387:ModMenuScreen.kt#pzbqk3
+  L1240: com.samurai.vengine.screens.modmenu.ActionButton.<anonymous> (ModMenuScreen.kt:2855)
+  L1247: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L1250: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1274: C73@3426L9:Box.kt#2w3rfo
+  L1276: C2861@115454L191:ModMenuScreen.kt#pzbqk3
+  L1334: C(AutoPlayIcon)P(1)3616@142631L360:ModMenuScreen.kt#pzbqk3
+  L1355: com.samurai.vengine.screens.modmenu.AutoPlayIcon (ModMenuScreen.kt:3615)
+  L1365: Pause autoplay
+  L1367: Play autoplay
+  L1405: com.samurai.vengine.screens.modmenu.AutoPlayIcon (ModMenuScreen.kt:3615)
+  L1415: Pause autoplay
+  L1417: Play autoplay
+  L1430: com.samurai.vengine.screens.modmenu.AutoPlayIcon (ModMenuScreen.kt:3615)
+  L1440: Pause autoplay
+  L1442: Play autoplay
+  L1473: C(AutoQueueToggle)3572@141420L543:ModMenuScreen.kt#pzbqk3
+  L1486: com.samurai.vengine.screens.modmenu.AutoQueueToggle (ModMenuScreen.kt:3571)
+  L1492: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L1495: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1519: C73@3426L9:Box.kt#2w3rfo
+  L1521: C3581@141776L181:ModMenuScreen.kt#pzbqk3
+  L1558: C(AutoplayControlPanel)3530@140091L1228:ModMenuScreen.kt#pzbqk3
+  L1578: com.samurai.vengine.screens.modmenu.AutoplayControlPanel (ModMenuScreen.kt:3529)
+  L1593: C3536@140293L1020:ModMenuScreen.kt#pzbqk3
+  L1599: com.samurai.vengine.screens.modmenu.AutoplayControlPanel.<anonymous> (ModMenuScreen.kt:3536)
+  L1609: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L1612: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1636: C79@3979L9:Column.kt#2w3rfo
+  L1638: C3543@140565L66,3545@140645L658:ModMenuScreen.kt#pzbqk3
+  L1643: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L1646: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L1670: C73@3426L9:Box.kt#2w3rfo
+  L1672: C3552@140905L384:ModMenuScreen.kt#pzbqk3
+  L1673: autoplayIcon
+  L1752: C(BallImpactPreview)P(2,1)1776@70521L55,1777@70613L187,1783@70833L805,1783@70805L833:ModMenuScreen.kt#pzbqk3
+  L1789: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L1791: ballImpactPreview
+  L1791: ballImpactPhase
+  L1793: CC(remember):ModMenuScreen.kt#9igjgp
+  L1814: $this$Canvas
+  L1875: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L1877: ballImpactPreview
+  L1877: ballImpactPhase
+  L1879: CC(remember):ModMenuScreen.kt#9igjgp
+  L1900: $this$Canvas
+  L1928: $this$Canvas
+  L1963: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L1965: ballImpactPreview
+  L1965: ballImpactPhase
+  L1967: CC(remember):ModMenuScreen.kt#9igjgp
+  L1988: $this$Canvas
+  L2016: $this$Canvas
+  L2084: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L2086: ballImpactPreview
+  L2086: ballImpactPhase
+  L2088: CC(remember):ModMenuScreen.kt#9igjgp
+  L2109: $this$Canvas
+  L2137: $this$Canvas
+  L2172: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L2174: ballImpactPreview
+  L2174: ballImpactPhase
+  L2176: CC(remember):ModMenuScreen.kt#9igjgp
+  L2197: $this$Canvas
+  L2225: $this$Canvas
+  L2282: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L2284: ballImpactPreview
+  L2284: ballImpactPhase
+  L2286: CC(remember):ModMenuScreen.kt#9igjgp
+  L2307: $this$Canvas
+  L2335: $this$Canvas
+  L2370: com.samurai.vengine.screens.modmenu.BallImpactPreview (ModMenuScreen.kt:1775)
+  L2372: ballImpactPreview
+  L2372: ballImpactPhase
+  L2374: CC(remember):ModMenuScreen.kt#9igjgp
+  L2395: $this$Canvas
+  L2423: $this$Canvas
+  L2482: C(ChangerRow)P(2!1,7!1,6,4,5)2915@116928L2701:ModMenuScreen.kt#pzbqk3
+  L2528: com.samurai.vengine.screens.modmenu.ChangerRow (ModMenuScreen.kt:2914)
+  L2549: C2921@117149L2474:ModMenuScreen.kt#pzbqk3
+  L2555: com.samurai.vengine.screens.modmenu.ChangerRow.<anonymous> (ModMenuScreen.kt:2921)
+  L2569: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L2572: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L2596: C79@3979L9:Column.kt#2w3rfo
+  L2598: C2926@117326L907:ModMenuScreen.kt#pzbqk3
+  L2602: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L2605: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L2629: C92@4661L9:Row.kt#2w3rfo
+  L2631: C2930@117479L182,2939@117817L383,2936@117678L541:ModMenuScreen.kt#pzbqk3
+  L2641: 2950@118277L40,2965@118964L555,2953@118416L101,2951@118334L1265
+  L2649: CC(remember):ModMenuScreen.kt#9igjgp
+  L2666: it
+  L2686: C2957@118555L35:ModMenuScreen.kt#pzbqk3
+  L2692: com.samurai.vengine.screens.modmenu.ChangerRow.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:2957)
+  L2761: C(ChoiceCard)P(!1,3,2)3344@132516L451:ModMenuScreen.kt#pzbqk3
+  L2796: com.samurai.vengine.screens.modmenu.ChoiceCard (ModMenuScreen.kt:3343)
+  L2825: C3352@132845L116:ModMenuScreen.kt#pzbqk3
+  L2831: com.samurai.vengine.screens.modmenu.ChoiceCard.<anonymous> (ModMenuScreen.kt:3352)
+  L2836: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L2840: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L2864: C73@3426L9:Box.kt#2w3rfo
+  L2866: C3353@132900L51:ModMenuScreen.kt#pzbqk3
+  L2916: com.samurai.vengine.screens.modmenu.ChoiceCard (ModMenuScreen.kt:3343)
+  L2945: C3352@132845L116:ModMenuScreen.kt#pzbqk3
+  L2951: com.samurai.vengine.screens.modmenu.ChoiceCard.<anonymous> (ModMenuScreen.kt:3352)
+  L2956: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L2960: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L2984: C73@3426L9:Box.kt#2w3rfo
+  L2986: C3353@132900L51:ModMenuScreen.kt#pzbqk3
+  L3010: com.samurai.vengine.screens.modmenu.ChoiceCard (ModMenuScreen.kt:3343)
+  L3039: C3352@132845L116:ModMenuScreen.kt#pzbqk3
+  L3045: com.samurai.vengine.screens.modmenu.ChoiceCard.<anonymous> (ModMenuScreen.kt:3352)
+  L3050: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L3054: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3078: C73@3426L9:Box.kt#2w3rfo
+  L3080: C3353@132900L51:ModMenuScreen.kt#pzbqk3
+  L3122: C(CircularMenuButton)3594@142044L480:ModMenuScreen.kt#pzbqk3
+  L3132: com.samurai.vengine.screens.modmenu.CircularMenuButton (ModMenuScreen.kt:3593)
+  L3137: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L3140: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3164: C73@3426L9:Box.kt#2w3rfo
+  L3166: C3602@142295L223:ModMenuScreen.kt#pzbqk3
+  L3167: Open mod menu
+  L3201: C(CoinGrid)P(1,2)1334@54492L641:ModMenuScreen.kt#pzbqk3
+  L3203: com.samurai.vengine.screens.modmenu.CoinGrid (ModMenuScreen.kt:1333)
+  L3208: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L3212: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3236: C79@3979L9:Column.kt#2w3rfo
+  L3238: C:ModMenuScreen.kt#pzbqk3
+  L3240: *1336@54607L510
+  L3244: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L3248: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3272: C92@4661L9:Row.kt#2w3rfo
+  L3274: C:ModMenuScreen.kt#pzbqk3
+  L3276: *1338@54732L237
+  L3299: *1346@55047L38
+  L3347: C(CombatTab)1223@50697L1732:ModMenuScreen.kt#pzbqk3
+  L3357: com.samurai.vengine.screens.modmenu.CombatTab (ModMenuScreen.kt:1222)
+  L3361: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L3365: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3389: C79@3979L9:Column.kt#2w3rfo
+  L3391: C1224@50764L25,1225@50837L23,1225@50798L62,1234@51250L27,1226@50869L419,1237@51298L22,1245@51649L27,1238@51329L358,1248@51705L33,1250@51797L25,1250@51754L68,1251@51876L26,1251@51831L71,1252@51911L27,1253@51990L25,1253@51947L68,1258@52314L98,1254@52024L399:ModMenuScreen.kt#pzbqk3
+  L3392: AUTO PLAY
+  L3393: Auto Play
+  L3396: CC(remember):ModMenuScreen.kt#9igjgp
+  L3419: Autoplay Style
+  L3420: Human
+  L3420: Fast
+  L3420: Hacker
+  L3423: CC(remember):ModMenuScreen.kt#9igjgp
+  L3445: 9-BALL
+  L3446: 9-Ball Mode
+  L3447: Normal
+  L3447: Target 9
+  L3450: CC(remember):ModMenuScreen.kt#9igjgp
+  L3472: AUTO-PLAY PHYSICS
+  L3473: Random Spin
+  L3476: CC(remember):ModMenuScreen.kt#9igjgp
+  L3498: Cushion Shot
+  L3501: CC(remember):ModMenuScreen.kt#9igjgp
+  L3523: GOLDEN SHOT
+  L3524: Golden Shot
+  L3527: CC(remember):ModMenuScreen.kt#9igjgp
+  L3549: Target Ring
+  L3550: 1 (Smallest)
+  L3550: Ring 2
+  L3550: Ring 3
+  L3550: 4 (Largest)
+  L3552: 1 (Smallest)
+  L3553: 1 (Smallest)
+  L3553: Ring 2
+  L3553: Ring 3
+  L3553: 4 (Largest)
+  L3555: CC(remember):ModMenuScreen.kt#9igjgp
+  L3570: it
+  L3571: 1 (Smallest)
+  L3571: Ring 2
+  L3571: Ring 3
+  L3571: 4 (Largest)
+  L3679: C(CueSkinGallery)925@36548L7,926@36577L98,929@36695L73,930@36785L24,945@37273L431,962@37985L165,966@38232L473,975@38711L3893:ModMenuScreen.kt#pzbqk3
+  L3685: com.samurai.vengine.screens.modmenu.CueSkinGallery (ModMenuScreen.kt:924)
+  L3688: CC:CompositionLocal.kt#9igjgp
+  L3694: CC(remember):ModMenuScreen.kt#9igjgp
+  L3699: getApplicationContext(...)
+  L3706: CC(remember):ModMenuScreen.kt#9igjgp
+  L3716: CC(rememberCoroutineScope)489@20472L144:Effects.kt#9igjgp
+  L3718: CC(remember):Composables.kt#9igjgp
+  L3734: CC(remember):ModMenuScreen.kt#9igjgp
+  L3767: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L3772: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L3796: C79@3979L9:Column.kt#2w3rfo
+  L3798: C976@38778L136:ModMenuScreen.kt#pzbqk3
+  L3802: Visual only. Cue stats stay unchanged.
+  L3805: *982@39002L3586
+  L4097: call to 'resume' before 'invoke' with coroutine
+  L4142: call to 'resume' before 'invoke' with coroutine
+  L4180: getAbsolutePath(...)
+  L4197: C:ModMenuScreen.kt#pzbqk3
+  L4203: com.samurai.vengine.screens.modmenu.CueSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1024)
+  L4208: 1025@41490L341
+  L4213: 1031@41895L54
+  L4214: Loading...
+  L4218: 1032@42017L55
+  L4219: Unavailable
+  L4223: 1033@42134L264
+  L4226: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L4230: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L4254: C79@3979L9:Column.kt#2w3rfo
+  L4256: C1034@42231L50,1035@42318L46:ModMenuScreen.kt#pzbqk3
+  L4257: Failed
+  L4258: Retry
+  L4358: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L4363: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L4390: C79@3979L9:Column.kt#2w3rfo
+  L4392: C976@38778L136:ModMenuScreen.kt#pzbqk3
+  L4396: Visual only. Cue stats stay unchanged.
+  L4399: *982@39002L3586
+  L4711: call to 'resume' before 'invoke' with coroutine
+  L4756: call to 'resume' before 'invoke' with coroutine
+  L4794: getAbsolutePath(...)
+  L4811: C:ModMenuScreen.kt#pzbqk3
+  L4817: com.samurai.vengine.screens.modmenu.CueSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1024)
+  L4822: 1025@41490L341
+  L4827: 1031@41895L54
+  L4828: Loading...
+  L4832: 1032@42017L55
+  L4833: Unavailable
+  L4837: 1033@42134L264
+  L4840: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L4844: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L4868: C79@3979L9:Column.kt#2w3rfo
+  L4870: C1034@42231L50,1035@42318L46:ModMenuScreen.kt#pzbqk3
+  L4871: Failed
+  L4872: Retry
+  L4997: call to 'resume' before 'invoke' with coroutine
+  L5005: Check failed.
+  L5021: C(CueTrailPreview)P(1):ModMenuScreen.kt#pzbqk3
+  L5043: com.samurai.vengine.screens.modmenu.CueTrailPreview (ModMenuScreen.kt:2181)
+  L5092: 2200@88704L24
+  L5097: 2202@88750L182
+  L5147: C(CueTrailStyleCard)P(3,2,1)1671@67575L752:ModMenuScreen.kt#pzbqk3
+  L5180: com.samurai.vengine.screens.modmenu.CueTrailStyleCard (ModMenuScreen.kt:1670)
+  L5210: C1681@67908L413:ModMenuScreen.kt#pzbqk3
+  L5216: com.samurai.vengine.screens.modmenu.CueTrailStyleCard.<anonymous> (ModMenuScreen.kt:1681)
+  L5222: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L5225: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L5249: C79@3979L9:Column.kt#2w3rfo
+  L5251: C1687@68130L181:ModMenuScreen.kt#pzbqk3
+  L5299: com.samurai.vengine.screens.modmenu.CueTrailStyleCard (ModMenuScreen.kt:1670)
+  L5329: C1681@67908L413:ModMenuScreen.kt#pzbqk3
+  L5335: com.samurai.vengine.screens.modmenu.CueTrailStyleCard.<anonymous> (ModMenuScreen.kt:1681)
+  L5341: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L5344: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L5368: C79@3979L9:Column.kt#2w3rfo
+  L5370: C1687@68130L181:ModMenuScreen.kt#pzbqk3
+  L5392: com.samurai.vengine.screens.modmenu.CueTrailStyleCard (ModMenuScreen.kt:1670)
+  L5422: C1681@67908L413:ModMenuScreen.kt#pzbqk3
+  L5428: com.samurai.vengine.screens.modmenu.CueTrailStyleCard.<anonymous> (ModMenuScreen.kt:1681)
+  L5434: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L5437: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L5461: C79@3979L9:Column.kt#2w3rfo
+  L5463: C1687@68130L181:ModMenuScreen.kt#pzbqk3
+  L5536: C(CushionImpactPreview)P(2,1)1811@71802L58,1812@71897L190,1818@72120L1220,1818@72092L1248:ModMenuScreen.kt#pzbqk3
+  L5571: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L5574: cushionImpactPreview
+  L5574: cushionImpactPhase
+  L5576: CC(remember):ModMenuScreen.kt#9igjgp
+  L5597: $this$Canvas
+  L5657: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L5660: cushionImpactPreview
+  L5660: cushionImpactPhase
+  L5662: CC(remember):ModMenuScreen.kt#9igjgp
+  L5683: $this$Canvas
+  L5713: $this$Canvas
+  L5747: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L5750: cushionImpactPreview
+  L5750: cushionImpactPhase
+  L5752: CC(remember):ModMenuScreen.kt#9igjgp
+  L5773: $this$Canvas
+  L5803: $this$Canvas
+  L5870: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L5873: cushionImpactPreview
+  L5873: cushionImpactPhase
+  L5875: CC(remember):ModMenuScreen.kt#9igjgp
+  L5896: $this$Canvas
+  L5926: $this$Canvas
+  L5960: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L5963: cushionImpactPreview
+  L5963: cushionImpactPhase
+  L5965: CC(remember):ModMenuScreen.kt#9igjgp
+  L5986: $this$Canvas
+  L6016: $this$Canvas
+  L6072: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L6075: cushionImpactPreview
+  L6075: cushionImpactPhase
+  L6077: CC(remember):ModMenuScreen.kt#9igjgp
+  L6098: $this$Canvas
+  L6128: $this$Canvas
+  L6162: com.samurai.vengine.screens.modmenu.CushionImpactPreview (ModMenuScreen.kt:1810)
+  L6165: cushionImpactPreview
+  L6165: cushionImpactPhase
+  L6167: CC(remember):ModMenuScreen.kt#9igjgp
+  L6188: $this$Canvas
+  L6218: $this$Canvas
+  L6271: C(DropdownSetting)P(!1,3,2)3207@127537L34,3209@127577L3047:ModMenuScreen.kt#pzbqk3
+  L6273: com.samurai.vengine.screens.modmenu.DropdownSetting (ModMenuScreen.kt:3206)
+  L6276: CC(remember):ModMenuScreen.kt#9igjgp
+  L6285: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L6289: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L6313: C79@3979L9:Column.kt#2w3rfo
+  L6315: C3213@127694L19,3210@127594L1463:ModMenuScreen.kt#pzbqk3
+  L6318: CC(remember):ModMenuScreen.kt#9igjgp
+  L6358: C3218@127903L1144:ModMenuScreen.kt#pzbqk3
+  L6364: com.samurai.vengine.screens.modmenu.DropdownSetting.<anonymous>.<anonymous> (ModMenuScreen.kt:3218)
+  L6372: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L6375: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L6399: C92@4661L9:Row.kt#2w3rfo
+  L6401: C3224@128144L85,3225@128246L319,3234@128582L451:ModMenuScreen.kt#pzbqk3
+  L6411: $this$Canvas
+  L6432: 3247@129095L1513
+  L6449: C3255@129428L1166:ModMenuScreen.kt#pzbqk3
+  L6455: com.samurai.vengine.screens.modmenu.DropdownSetting.<anonymous>.<anonymous> (ModMenuScreen.kt:3255)
+  L6462: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L6468: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L6492: C79@3979L9:Column.kt#2w3rfo
+  L6494: C:ModMenuScreen.kt#pzbqk3
+  L6496: *3260@129653L143,3257@129509L1045
+  L6847: C(EffectCard)P(!1,3,2)3390@133887L869:ModMenuScreen.kt#pzbqk3
+  L6882: com.samurai.vengine.screens.modmenu.EffectCard (ModMenuScreen.kt:3389)
+  L6912: C3398@134227L523:ModMenuScreen.kt#pzbqk3
+  L6918: com.samurai.vengine.screens.modmenu.EffectCard.<anonymous> (ModMenuScreen.kt:3398)
+  L6926: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L6929: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L6953: C79@3979L9:Column.kt#2w3rfo
+  L6955: C3403@134460L78,3404@134551L189:ModMenuScreen.kt#pzbqk3
+  L7006: com.samurai.vengine.screens.modmenu.EffectCard (ModMenuScreen.kt:3389)
+  L7036: C3398@134227L523:ModMenuScreen.kt#pzbqk3
+  L7042: com.samurai.vengine.screens.modmenu.EffectCard.<anonymous> (ModMenuScreen.kt:3398)
+  L7050: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7053: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7077: C79@3979L9:Column.kt#2w3rfo
+  L7079: C3403@134460L78,3404@134551L189:ModMenuScreen.kt#pzbqk3
+  L7104: com.samurai.vengine.screens.modmenu.EffectCard (ModMenuScreen.kt:3389)
+  L7134: C3398@134227L523:ModMenuScreen.kt#pzbqk3
+  L7140: com.samurai.vengine.screens.modmenu.EffectCard.<anonymous> (ModMenuScreen.kt:3398)
+  L7148: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7151: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7175: C79@3979L9:Column.kt#2w3rfo
+  L7177: C3403@134460L78,3404@134551L189:ModMenuScreen.kt#pzbqk3
+  L7219: C(EffectGrid)P(1,2)3364@133098L639:ModMenuScreen.kt#pzbqk3
+  L7221: com.samurai.vengine.screens.modmenu.EffectGrid (ModMenuScreen.kt:3363)
+  L7226: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7230: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7255: C79@3979L9:Column.kt#2w3rfo
+  L7258: C:ModMenuScreen.kt#pzbqk3
+  L7260: *3366@133213L508
+  L7264: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L7268: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7293: C92@4661L9:Row.kt#2w3rfo
+  L7324: *3371@133472L22,3368@133331L242
+  L7328: CC(remember):ModMenuScreen.kt#9igjgp
+  L7356: *3376@133651L38
+  L7406: C(EffectPreview)3417@134878L2762,3417@134850L2790:ModMenuScreen.kt#pzbqk3
+  L7427: com.samurai.vengine.screens.modmenu.EffectPreview (ModMenuScreen.kt:3416)
+  L7430: CC(remember):ModMenuScreen.kt#9igjgp
+  L7446: $this$Canvas
+  L7448: Off
+  L7453: Pocket
+  L7453: Portal
+  L7458: Ice
+  L7458: Shock
+  L7464: Rail
+  L7464: Spark
+  L7469: Plasma
+  L7469: Bounce
+  L7473: Spark
+  L7473: Crack
+  L7515: C(EffectPreviewCard)P(1)1702@68442L672:ModMenuScreen.kt#pzbqk3
+  L7528: com.samurai.vengine.screens.modmenu.EffectPreviewCard (ModMenuScreen.kt:1701)
+  L7542: $this$SettingCard
+  L7543: C1703@68464L644:ModMenuScreen.kt#pzbqk3
+  L7549: com.samurai.vengine.screens.modmenu.EffectPreviewCard.<anonymous> (ModMenuScreen.kt:1703)
+  L7556: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7559: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7583: C79@3979L9:Column.kt#2w3rfo
+  L7585: C1709@68657L209,1716@68879L40,1717@68932L166:ModMenuScreen.kt#pzbqk3
+  L7598: C1714@68843L9:ModMenuScreen.kt#pzbqk3
+  L7604: com.samurai.vengine.screens.modmenu.EffectPreviewCard.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1714)
+  L7676: C(EffectStyleCard)P(!1,4,2)1735@69306L1054:ModMenuScreen.kt#pzbqk3
+  L7719: com.samurai.vengine.screens.modmenu.EffectStyleCard (ModMenuScreen.kt:1734)
+  L7749: C1745@69639L715:ModMenuScreen.kt#pzbqk3
+  L7755: com.samurai.vengine.screens.modmenu.EffectStyleCard.<anonymous> (ModMenuScreen.kt:1745)
+  L7763: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7766: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7790: C79@3979L9:Column.kt#2w3rfo
+  L7792: C1751@69861L245,1759@70119L40,1760@70172L172:ModMenuScreen.kt#pzbqk3
+  L7796: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L7799: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7823: C73@3426L9:Box.kt#2w3rfo
+  L7825: C1757@70083L9:ModMenuScreen.kt#pzbqk3
+  L7891: com.samurai.vengine.screens.modmenu.EffectStyleCard (ModMenuScreen.kt:1734)
+  L7921: C1745@69639L715:ModMenuScreen.kt#pzbqk3
+  L7927: com.samurai.vengine.screens.modmenu.EffectStyleCard.<anonymous> (ModMenuScreen.kt:1745)
+  L7935: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L7938: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7962: C79@3979L9:Column.kt#2w3rfo
+  L7964: C1751@69861L245,1759@70119L40,1760@70172L172:ModMenuScreen.kt#pzbqk3
+  L7968: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L7971: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L7995: C73@3426L9:Box.kt#2w3rfo
+  L7997: C1757@70083L9:ModMenuScreen.kt#pzbqk3
+  L8027: com.samurai.vengine.screens.modmenu.EffectStyleCard (ModMenuScreen.kt:1734)
+  L8057: C1745@69639L715:ModMenuScreen.kt#pzbqk3
+  L8063: com.samurai.vengine.screens.modmenu.EffectStyleCard.<anonymous> (ModMenuScreen.kt:1745)
+  L8071: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8074: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8098: C79@3979L9:Column.kt#2w3rfo
+  L8100: C1751@69861L245,1759@70119L40,1760@70172L172:ModMenuScreen.kt#pzbqk3
+  L8104: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L8107: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8131: C73@3426L9:Box.kt#2w3rfo
+  L8133: C1757@70083L9:ModMenuScreen.kt#pzbqk3
+  L8183: C(EngineStatusCard)776@30017L2085:ModMenuScreen.kt#pzbqk3
+  L8193: com.samurai.vengine.screens.modmenu.EngineStatusCard (ModMenuScreen.kt:770)
+  L8211: C782@30238L1858:ModMenuScreen.kt#pzbqk3
+  L8217: com.samurai.vengine.screens.modmenu.EngineStatusCard.<anonymous> (ModMenuScreen.kt:782)
+  L8226: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L8229: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8253: C92@4661L9:Row.kt#2w3rfo
+  L8255: C788@30455L1039,816@31507L579:ModMenuScreen.kt#pzbqk3
+  L8258: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8261: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8285: C79@3979L9:Column.kt#2w3rfo
+  L8287: C789@30512L186,795@30715L40,796@30772L708:ModMenuScreen.kt#pzbqk3
+  L8288: Samurai
+  L8293: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L8297: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8321: C92@4661L9:Row.kt#2w3rfo
+  L8323: C797@30846L198,803@31065L151,808@31237L225:ModMenuScreen.kt#pzbqk3
+  L8324: ACTIVE
+  L8325:   |  
+  L8326: PREMIUM ACCESS
+  L8341: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8345: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8369: C79@3979L9:Column.kt#2w3rfo
+  L8371: C817@31569L191,823@31777L40,824@31834L238:ModMenuScreen.kt#pzbqk3
+  L8372: ACCESS EXPIRES IN
+  L8376: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L8380: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8404: C92@4661L9:Row.kt#2w3rfo
+  L8406: C825@31912L18,826@31951L19,827@31991L21,828@32033L21:ModMenuScreen.kt#pzbqk3
+  L8407: D
+  L8408: H
+  L8409: M
+  L8410: S
+  L8507: C(FloatingMenuButtons)P(!2,6:c#ui.unit.Dp,4,5,3)3484@138572L7,3495@138981L31,3500@139123L43,3501@139210L309,3497@139018L896:ModMenuScreen.kt#pzbqk3
+  L8573: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L8576: CC:CompositionLocal.kt#9igjgp
+  L8587: CC(remember):ModMenuScreen.kt#9igjgp
+  L8597: CC(remember):ModMenuScreen.kt#9igjgp
+  L8612: $this$offset
+  L8623: CC(remember):ModMenuScreen.kt#9igjgp
+  L8635: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8638: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8662: C79@3979L9:Column.kt#2w3rfo
+  L8664: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L8710: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L8713: CC:CompositionLocal.kt#9igjgp
+  L8724: CC(remember):ModMenuScreen.kt#9igjgp
+  L8734: CC(remember):ModMenuScreen.kt#9igjgp
+  L8749: $this$offset
+  L8760: CC(remember):ModMenuScreen.kt#9igjgp
+  L8775: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8778: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8805: C79@3979L9:Column.kt#2w3rfo
+  L8807: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L8828: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L8831: CC:CompositionLocal.kt#9igjgp
+  L8842: CC(remember):ModMenuScreen.kt#9igjgp
+  L8852: CC(remember):ModMenuScreen.kt#9igjgp
+  L8867: $this$offset
+  L8878: CC(remember):ModMenuScreen.kt#9igjgp
+  L8893: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L8896: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L8923: C79@3979L9:Column.kt#2w3rfo
+  L8925: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L8979: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L8982: CC:CompositionLocal.kt#9igjgp
+  L8993: CC(remember):ModMenuScreen.kt#9igjgp
+  L9003: CC(remember):ModMenuScreen.kt#9igjgp
+  L9018: $this$offset
+  L9029: CC(remember):ModMenuScreen.kt#9igjgp
+  L9044: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9047: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9074: C79@3979L9:Column.kt#2w3rfo
+  L9076: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L9097: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L9100: CC:CompositionLocal.kt#9igjgp
+  L9111: CC(remember):ModMenuScreen.kt#9igjgp
+  L9121: CC(remember):ModMenuScreen.kt#9igjgp
+  L9136: $this$offset
+  L9147: CC(remember):ModMenuScreen.kt#9igjgp
+  L9162: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9165: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9192: C79@3979L9:Column.kt#2w3rfo
+  L9194: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L9237: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L9240: CC:CompositionLocal.kt#9igjgp
+  L9251: CC(remember):ModMenuScreen.kt#9igjgp
+  L9261: CC(remember):ModMenuScreen.kt#9igjgp
+  L9276: $this$offset
+  L9287: CC(remember):ModMenuScreen.kt#9igjgp
+  L9302: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9305: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9332: C79@3979L9:Column.kt#2w3rfo
+  L9334: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L9355: com.samurai.vengine.screens.modmenu.FloatingMenuButtons (ModMenuScreen.kt:3483)
+  L9358: CC:CompositionLocal.kt#9igjgp
+  L9369: CC(remember):ModMenuScreen.kt#9igjgp
+  L9379: CC(remember):ModMenuScreen.kt#9igjgp
+  L9394: $this$offset
+  L9405: CC(remember):ModMenuScreen.kt#9igjgp
+  L9420: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9423: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9450: C79@3979L9:Column.kt#2w3rfo
+  L9452: C3513@139654L205,3519@139868L40:ModMenuScreen.kt#pzbqk3
+  L9500: C(GameInformationDivider)2802@113705L129:ModMenuScreen.kt#pzbqk3
+  L9505: com.samurai.vengine.screens.modmenu.GameInformationDivider (ModMenuScreen.kt:2801)
+  L9536: C(GameInformationPanel)2718@110895L7,2719@110925L49,2720@110996L91,2728@111209L1839:ModMenuScreen.kt#pzbqk3
+  L9546: com.samurai.vengine.screens.modmenu.GameInformationPanel (ModMenuScreen.kt:2717)
+  L9549: CC:CompositionLocal.kt#9igjgp
+  L9554: CC(remember):ModMenuScreen.kt#9igjgp
+  L9565: CC(remember):ModMenuScreen.kt#9igjgp
+  L9577: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9581: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9605: C79@3979L9:Column.kt#2w3rfo
+  L9607: C2729@111276L1339,2764@112625L417:ModMenuScreen.kt#pzbqk3
+  L9620: $this$SettingCard
+  L9621: C2730@111302L1303:ModMenuScreen.kt#pzbqk3
+  L9627: com.samurai.vengine.screens.modmenu.GameInformationPanel.<anonymous>.<anonymous> (ModMenuScreen.kt:2730)
+  L9634: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L9637: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9661: C92@4661L9:Row.kt#2w3rfo
+  L9663: C2736@111512L341,2744@111870L40,2745@111927L664:ModMenuScreen.kt#pzbqk3
+  L9664: 8 Ball Pool
+  L9668: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9671: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9695: C79@3979L9:Column.kt#2w3rfo
+  L9697: C2746@111988L210,2752@112219L40,2753@112280L293:ModMenuScreen.kt#pzbqk3
+  L9698: 8 BALL POOL
+  L9730: $this$SettingCard
+  L9731: C2765@112651L381:ModMenuScreen.kt#pzbqk3
+  L9737: com.samurai.vengine.screens.modmenu.GameInformationPanel.<anonymous>.<anonymous> (ModMenuScreen.kt:2765)
+  L9744: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9747: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9771: C79@3979L9:Column.kt#2w3rfo
+  L9773: C2766@112742L64,2767@112823L24,2768@112864L45,2769@112926L24,2770@112967L51:ModMenuScreen.kt#pzbqk3
+  L9774: Seller
+  L9777: ---
+  L9781: Expiry Date
+  L9783: Time Remaining
+  L9831: C(GameInformationRow)2778@113131L515:ModMenuScreen.kt#pzbqk3
+  L9846: com.samurai.vengine.screens.modmenu.GameInformationRow (ModMenuScreen.kt:2777)
+  L9851: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L9854: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9878: C92@4661L9:Row.kt#2w3rfo
+  L9880: C2784@113304L146,2790@113459L181:ModMenuScreen.kt#pzbqk3
+  L9920: C(MenuBody)659@25422L21,660@25475L7,662@25488L1244,694@26969L350,694@26948L371,708@27353L39,708@27325L67,712@27398L2361:ModMenuScreen.kt#pzbqk3
+  L9936: com.samurai.vengine.screens.modmenu.MenuBody (ModMenuScreen.kt:658)
+  L9940: CC:CompositionLocal.kt#9igjgp
+  L9946: CC(remember):ModMenuScreen.kt#9igjgp
+  L9956: CC(remember):ModMenuScreen.kt#9igjgp
+  L9967: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L9970: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L9994: C79@3979L9:Column.kt#2w3rfo
+  L9996: C718@27592L225,726@27827L1926:ModMenuScreen.kt#pzbqk3
+  L10000: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L10003: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10027: C73@3426L9:Box.kt#2w3rfo
+  L10029: C723@27748L59:ModMenuScreen.kt#pzbqk3
+  L10040: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L10043: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10067: C79@3979L9:Column.kt#2w3rfo
+  L10069: C736@28299L7,737@28369L7,734@28183L1560:ModMenuScreen.kt#pzbqk3
+  L10072: CC:CompositionLocal.kt#9igjgp
+  L10077: CC:CompositionLocal.kt#9igjgp
+  L10092: C740@28438L1291:ModMenuScreen.kt#pzbqk3
+  L10098: com.samurai.vengine.screens.modmenu.MenuBody.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:740)
+  L10103: $this$AnimatedContent
+  L10134: menuTabContent
+  L10180: $this$AnimatedContent
+  L10181: tab
+  L10182: C:ModMenuScreen.kt#pzbqk3
+  L10184: com.samurai.vengine.screens.modmenu.MenuBody.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:756)
+  L10189: 757@29439L17
+  L10194: 758@29499L16
+  L10199: 759@29557L15
+  L10204: 760@29613L14
+  L10212: 761@29671L18
+  L10268: C(MenuHeader)P(2,1)549@21952L1645:ModMenuScreen.kt#pzbqk3
+  L10284: com.samurai.vengine.screens.modmenu.MenuHeader (ModMenuScreen.kt:548)
+  L10291: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L10294: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10318: C92@4661L9:Row.kt#2w3rfo
+  L10320: C557@22230L578,584@23084L507:ModMenuScreen.kt#pzbqk3
+  L10324: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L10327: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10351: C73@3426L9:Box.kt#2w3rfo
+  L10353: C565@22499L299:ModMenuScreen.kt#pzbqk3
+  L10356: 8-ball menu
+  L10365: *579@22979L22,576@22864L200
+  L10632: C(MenuTabButton)P(3,2,1)610@23749L1546:ModMenuScreen.kt#pzbqk3
+  L10671: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L10685: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L10688: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10712: C79@3979L9:Column.kt#2w3rfo
+  L10714: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L10723: 622@24258L269
+  L10742: 629@24557L216
+  L10813: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L10827: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L10830: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10857: C79@3979L9:Column.kt#2w3rfo
+  L10859: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L10868: 622@24258L269
+  L10887: 629@24557L216
+  L10933: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L10947: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L10950: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L10977: C79@3979L9:Column.kt#2w3rfo
+  L10979: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L10988: 622@24258L269
+  L11007: 629@24557L216
+  L11086: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L11100: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11103: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11130: C79@3979L9:Column.kt#2w3rfo
+  L11132: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L11141: 622@24258L269
+  L11160: 629@24557L216
+  L11206: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L11220: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11223: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11250: C79@3979L9:Column.kt#2w3rfo
+  L11252: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L11261: 622@24258L269
+  L11280: 629@24557L216
+  L11348: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L11362: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11365: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11392: C79@3979L9:Column.kt#2w3rfo
+  L11394: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L11403: 622@24258L269
+  L11422: 629@24557L216
+  L11468: com.samurai.vengine.screens.modmenu.MenuTabButton (ModMenuScreen.kt:609)
+  L11482: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11485: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11512: C79@3979L9:Column.kt#2w3rfo
+  L11514: C636@24792L40,637@24841L156,643@25006L40,644@25055L234:ModMenuScreen.kt#pzbqk3
+  L11523: 622@24258L269
+  L11542: 629@24557L216
+  L11608: C(MiscCosmetics)1480@60113L6618:ModMenuScreen.kt#pzbqk3
+  L11616: com.samurai.vengine.screens.modmenu.MiscCosmetics (ModMenuScreen.kt:1479)
+  L11620: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11624: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11648: C79@3979L9:Column.kt#2w3rfo
+  L11650: C1482@60189L30,1483@60228L788,1512@61346L29,1505@61025L361,1531@62110L34,1532@62153L406,1568@63649L37,1569@63695L418,1605@65221L29,1606@65259L398:ModMenuScreen.kt#pzbqk3
+  L11651: CUE BALL TRAIL
+  L11663: $this$SettingCard
+  L11664: C1484@60254L752:ModMenuScreen.kt#pzbqk3
+  L11670: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous> (ModMenuScreen.kt:1484)
+  L11676: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L11679: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11703: C79@3979L9:Column.kt#2w3rfo
+  L11705: C1490@60471L521:ModMenuScreen.kt#pzbqk3
+  L11717: C1495@60677L297:ModMenuScreen.kt#pzbqk3
+  L11723: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1495)
+  L11742: Trail Length
+  L11744: Short
+  L11744: Long
+  L11747: CC(remember):ModMenuScreen.kt#9igjgp
+  L11775: *1515@61456L634
+  L11779: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L11783: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11807: C92@4661L9:Row.kt#2w3rfo
+  L11809: C:ModMenuScreen.kt#pzbqk3
+  L11811: *1521@61821L36,1518@61654L282
+  L11885: *1526@62020L38
+  L11906: BALL IMPACT EFFECT
+  L11910: Off
+  L11921: C1535@62296L253:ModMenuScreen.kt#pzbqk3
+  L11927: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous> (ModMenuScreen.kt:1535)
+  L11957: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L11961: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L11985: C92@4661L9:Row.kt#2w3rfo
+  L11987: C:ModMenuScreen.kt#pzbqk3
+  L11989: *1550@62997L38,1547@62831L644
+  L11994: CC(remember):ModMenuScreen.kt#9igjgp
+  L12030: C1553@63141L312:ModMenuScreen.kt#pzbqk3
+  L12036: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1553)
+  L12050: *1563@63559L38
+  L12068: CUSHION IMPACT EFFECT
+  L12092: C1572@63844L259:ModMenuScreen.kt#pzbqk3
+  L12098: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous> (ModMenuScreen.kt:1572)
+  L12107: *1581@64188L1013
+  L12111: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L12115: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12139: C92@4661L9:Row.kt#2w3rfo
+  L12141: C:ModMenuScreen.kt#pzbqk3
+  L12143: *1587@64560L41,1584@64391L656
+  L12148: CC(remember):ModMenuScreen.kt#9igjgp
+  L12184: C1590@64707L318:ModMenuScreen.kt#pzbqk3
+  L12190: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1590)
+  L12202: *1600@65131L38
+  L12216: POCKET EFFECT
+  L12240: C1609@65398L249:ModMenuScreen.kt#pzbqk3
+  L12246: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous> (ModMenuScreen.kt:1609)
+  L12255: *1618@65727L988
+  L12260: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L12264: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12288: C92@4661L9:Row.kt#2w3rfo
+  L12290: C:ModMenuScreen.kt#pzbqk3
+  L12292: *1624@66089L36,1621@65925L636
+  L12298: CC(remember):ModMenuScreen.kt#9igjgp
+  L12334: C1627@66231L308:ModMenuScreen.kt#pzbqk3
+  L12340: com.samurai.vengine.screens.modmenu.MiscCosmetics.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1627)
+  L12353: *1637@66645L38
+  L12404: C(MiscSubTabs)P(1)1414@57274L2770:ModMenuScreen.kt#pzbqk3
+  L12413: com.samurai.vengine.screens.modmenu.MiscSubTabs (ModMenuScreen.kt:1413)
+  L12419: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L12422: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12447: C92@4661L9:Row.kt#2w3rfo
+  L12449: C:ModMenuScreen.kt#pzbqk3
+  L12451: *1423@57669L216,1428@57913L191,1437@58309L21,1433@58117L1911
+  L12453: Cosmetics
+  L12453: Skins
+  L12569: C1442@58554L1460:ModMenuScreen.kt#pzbqk3
+  L12575: com.samurai.vengine.screens.modmenu.MiscSubTabs.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1442)
+  L12581: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L12584: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12608: C73@3426L9:Box.kt#2w3rfo
+  L12610: C1443@58615L930:ModMenuScreen.kt#pzbqk3
+  L12615: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L12618: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12642: C92@4661L9:Row.kt#2w3rfo
+  L12644: C1448@58885L274,1454@59184L339:ModMenuScreen.kt#pzbqk3
+  L12658: 1463@59606L368
+  L12726: C(MiscTab)1356@55254L115,1360@55386L24,1361@55437L21,1362@55481L21,1364@55542L97,1364@55508L131,1368@55645L1537:ModMenuScreen.kt#pzbqk3
+  L12737: com.samurai.vengine.screens.modmenu.MiscTab (ModMenuScreen.kt:1355)
+  L12746: CC(rememberCoroutineScope)489@20472L144:Effects.kt#9igjgp
+  L12748: CC(remember):Composables.kt#9igjgp
+  L12761: CC(remember):ModMenuScreen.kt#9igjgp
+  L12773: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L12776: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12800: C79@3979L9:Column.kt#2w3rfo
+  L12802: C1372@55770L358,1383@56137L1039:ModMenuScreen.kt#pzbqk3
+  L12840: call to 'resume' before 'invoke' with coroutine
+  L12883: $this$HorizontalPager
+  L12884: C1391@56449L238,1388@56335L831:ModMenuScreen.kt#pzbqk3
+  L12886: com.samurai.vengine.screens.modmenu.MiscTab.<anonymous>.<anonymous> (ModMenuScreen.kt:1388)
+  L12891: CC(remember):ModMenuScreen.kt#9igjgp
+  L12912: $this$graphicsLayer
+  L12923: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L12926: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L12950: C79@3979L9:Column.kt#2w3rfo
+  L12952: C:ModMenuScreen.kt#pzbqk3
+  L12955: 1400@56909L20
+  L12960: 1402@56975L25,1403@57021L21,1404@57063L27,1405@57111L23
+  L12961: CUE SKINS
+  L12963: TABLE SKINS
+  L13024: C(ModMenuPanel)P(4,3,2,1)524@21235L580:ModMenuScreen.kt#pzbqk3
+  L13060: com.samurai.vengine.screens.modmenu.ModMenuPanel (ModMenuScreen.kt:523)
+  L13078: C530@21396L413:ModMenuScreen.kt#pzbqk3
+  L13084: com.samurai.vengine.screens.modmenu.ModMenuPanel.<anonymous> (ModMenuScreen.kt:530)
+  L13092: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L13095: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L13119: C79@3979L9:Column.kt#2w3rfo
+  L13121: C531@21452L150,537@21696L40,538@21749L50:ModMenuScreen.kt#pzbqk3
+  L13174: com.samurai.vengine.screens.modmenu.ModMenuPanel (ModMenuScreen.kt:523)
+  L13192: C530@21396L413:ModMenuScreen.kt#pzbqk3
+  L13198: com.samurai.vengine.screens.modmenu.ModMenuPanel.<anonymous> (ModMenuScreen.kt:530)
+  L13206: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L13209: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L13233: C79@3979L9:Column.kt#2w3rfo
+  L13235: C531@21452L150,537@21696L40,538@21749L50:ModMenuScreen.kt#pzbqk3
+  L13261: com.samurai.vengine.screens.modmenu.ModMenuPanel (ModMenuScreen.kt:523)
+  L13279: C530@21396L413:ModMenuScreen.kt#pzbqk3
+  L13285: com.samurai.vengine.screens.modmenu.ModMenuPanel.<anonymous> (ModMenuScreen.kt:530)
+  L13293: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L13296: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L13320: C79@3979L9:Column.kt#2w3rfo
+  L13322: C531@21452L150,537@21696L40,538@21749L50:ModMenuScreen.kt#pzbqk3
+  L13366: C(ModMenuPreview)3631@143107L25:ModMenuScreen.kt#pzbqk3
+  L13371: com.samurai.vengine.screens.modmenu.ModMenuPreview (ModMenuScreen.kt:3630)
+  L13475: C(ModMenuScreen)P(1,3,4)396@16813L40,400@16966L347,400@16929L384,414@17350L192,414@17319L223,422@17570L234,422@17548L256,430@17810L3226:ModMenuScreen.kt#pzbqk3
+  L13535: CC(remember):ModMenuScreen.kt#9igjgp
+  L13566: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L13570: CC(remember):ModMenuScreen.kt#9igjgp
+  L13594: CC(remember):ModMenuScreen.kt#9igjgp
+  L13608: CC(remember):ModMenuScreen.kt#9igjgp
+  L13631: $this$BoxWithConstraints
+  L13632: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L13643: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L13646: 435@18134L26
+  L13675: $this$AnimatedVisibility
+  L13676: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L13678: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L13685: CC(remember):ModMenuScreen.kt#9igjgp
+  L13701: it
+  L13710: CC(remember):ModMenuScreen.kt#9igjgp
+  L13775: $this$AnimatedVisibility
+  L13776: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L13778: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L13784: CC(remember):ModMenuScreen.kt#9igjgp
+  L13811: CC(remember):ModMenuScreen.kt#9igjgp
+  L13837: CC(remember):ModMenuScreen.kt#9igjgp
+  L13917: CC(remember):ModMenuScreen.kt#9igjgp
+  L13948: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L13952: CC(remember):ModMenuScreen.kt#9igjgp
+  L13979: CC(remember):ModMenuScreen.kt#9igjgp
+  L13996: CC(remember):ModMenuScreen.kt#9igjgp
+  L14023: $this$BoxWithConstraints
+  L14024: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L14035: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L14038: 435@18134L26
+  L14067: $this$AnimatedVisibility
+  L14068: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L14070: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L14077: CC(remember):ModMenuScreen.kt#9igjgp
+  L14093: it
+  L14102: CC(remember):ModMenuScreen.kt#9igjgp
+  L14167: $this$AnimatedVisibility
+  L14168: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L14170: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L14176: CC(remember):ModMenuScreen.kt#9igjgp
+  L14203: CC(remember):ModMenuScreen.kt#9igjgp
+  L14229: CC(remember):ModMenuScreen.kt#9igjgp
+  L14280: CC(remember):ModMenuScreen.kt#9igjgp
+  L14311: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L14315: CC(remember):ModMenuScreen.kt#9igjgp
+  L14342: CC(remember):ModMenuScreen.kt#9igjgp
+  L14359: CC(remember):ModMenuScreen.kt#9igjgp
+  L14386: $this$BoxWithConstraints
+  L14387: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L14398: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L14401: 435@18134L26
+  L14430: $this$AnimatedVisibility
+  L14431: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L14433: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L14440: CC(remember):ModMenuScreen.kt#9igjgp
+  L14456: it
+  L14465: CC(remember):ModMenuScreen.kt#9igjgp
+  L14530: $this$AnimatedVisibility
+  L14531: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L14533: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L14539: CC(remember):ModMenuScreen.kt#9igjgp
+  L14566: CC(remember):ModMenuScreen.kt#9igjgp
+  L14592: CC(remember):ModMenuScreen.kt#9igjgp
+  L14676: CC(remember):ModMenuScreen.kt#9igjgp
+  L14707: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L14711: CC(remember):ModMenuScreen.kt#9igjgp
+  L14738: CC(remember):ModMenuScreen.kt#9igjgp
+  L14755: CC(remember):ModMenuScreen.kt#9igjgp
+  L14782: $this$BoxWithConstraints
+  L14783: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L14794: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L14797: 435@18134L26
+  L14826: $this$AnimatedVisibility
+  L14827: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L14829: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L14836: CC(remember):ModMenuScreen.kt#9igjgp
+  L14852: it
+  L14861: CC(remember):ModMenuScreen.kt#9igjgp
+  L14926: $this$AnimatedVisibility
+  L14927: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L14929: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L14935: CC(remember):ModMenuScreen.kt#9igjgp
+  L14962: CC(remember):ModMenuScreen.kt#9igjgp
+  L14988: CC(remember):ModMenuScreen.kt#9igjgp
+  L15039: CC(remember):ModMenuScreen.kt#9igjgp
+  L15070: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L15074: CC(remember):ModMenuScreen.kt#9igjgp
+  L15101: CC(remember):ModMenuScreen.kt#9igjgp
+  L15118: CC(remember):ModMenuScreen.kt#9igjgp
+  L15145: $this$BoxWithConstraints
+  L15146: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L15157: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L15160: 435@18134L26
+  L15189: $this$AnimatedVisibility
+  L15190: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L15192: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L15199: CC(remember):ModMenuScreen.kt#9igjgp
+  L15215: it
+  L15224: CC(remember):ModMenuScreen.kt#9igjgp
+  L15289: $this$AnimatedVisibility
+  L15290: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L15292: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L15298: CC(remember):ModMenuScreen.kt#9igjgp
+  L15325: CC(remember):ModMenuScreen.kt#9igjgp
+  L15351: CC(remember):ModMenuScreen.kt#9igjgp
+  L15424: CC(remember):ModMenuScreen.kt#9igjgp
+  L15455: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L15459: CC(remember):ModMenuScreen.kt#9igjgp
+  L15486: CC(remember):ModMenuScreen.kt#9igjgp
+  L15503: CC(remember):ModMenuScreen.kt#9igjgp
+  L15530: $this$BoxWithConstraints
+  L15531: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L15542: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L15545: 435@18134L26
+  L15574: $this$AnimatedVisibility
+  L15575: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L15577: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L15584: CC(remember):ModMenuScreen.kt#9igjgp
+  L15600: it
+  L15609: CC(remember):ModMenuScreen.kt#9igjgp
+  L15674: $this$AnimatedVisibility
+  L15675: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L15677: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L15683: CC(remember):ModMenuScreen.kt#9igjgp
+  L15710: CC(remember):ModMenuScreen.kt#9igjgp
+  L15736: CC(remember):ModMenuScreen.kt#9igjgp
+  L15787: CC(remember):ModMenuScreen.kt#9igjgp
+  L15818: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L15822: CC(remember):ModMenuScreen.kt#9igjgp
+  L15849: CC(remember):ModMenuScreen.kt#9igjgp
+  L15866: CC(remember):ModMenuScreen.kt#9igjgp
+  L15893: $this$BoxWithConstraints
+  L15894: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L15905: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L15908: 435@18134L26
+  L15937: $this$AnimatedVisibility
+  L15938: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L15940: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L15947: CC(remember):ModMenuScreen.kt#9igjgp
+  L15963: it
+  L15972: CC(remember):ModMenuScreen.kt#9igjgp
+  L16037: $this$AnimatedVisibility
+  L16038: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L16040: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L16046: CC(remember):ModMenuScreen.kt#9igjgp
+  L16073: CC(remember):ModMenuScreen.kt#9igjgp
+  L16099: CC(remember):ModMenuScreen.kt#9igjgp
+  L16194: CC(remember):ModMenuScreen.kt#9igjgp
+  L16225: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L16229: CC(remember):ModMenuScreen.kt#9igjgp
+  L16256: CC(remember):ModMenuScreen.kt#9igjgp
+  L16273: CC(remember):ModMenuScreen.kt#9igjgp
+  L16300: $this$BoxWithConstraints
+  L16301: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L16312: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L16315: 435@18134L26
+  L16344: $this$AnimatedVisibility
+  L16345: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L16347: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L16354: CC(remember):ModMenuScreen.kt#9igjgp
+  L16370: it
+  L16379: CC(remember):ModMenuScreen.kt#9igjgp
+  L16444: $this$AnimatedVisibility
+  L16445: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L16447: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L16453: CC(remember):ModMenuScreen.kt#9igjgp
+  L16480: CC(remember):ModMenuScreen.kt#9igjgp
+  L16506: CC(remember):ModMenuScreen.kt#9igjgp
+  L16557: CC(remember):ModMenuScreen.kt#9igjgp
+  L16588: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L16592: CC(remember):ModMenuScreen.kt#9igjgp
+  L16619: CC(remember):ModMenuScreen.kt#9igjgp
+  L16636: CC(remember):ModMenuScreen.kt#9igjgp
+  L16663: $this$BoxWithConstraints
+  L16664: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L16675: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L16678: 435@18134L26
+  L16707: $this$AnimatedVisibility
+  L16708: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L16710: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L16717: CC(remember):ModMenuScreen.kt#9igjgp
+  L16733: it
+  L16742: CC(remember):ModMenuScreen.kt#9igjgp
+  L16807: $this$AnimatedVisibility
+  L16808: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L16810: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L16816: CC(remember):ModMenuScreen.kt#9igjgp
+  L16843: CC(remember):ModMenuScreen.kt#9igjgp
+  L16869: CC(remember):ModMenuScreen.kt#9igjgp
+  L16942: CC(remember):ModMenuScreen.kt#9igjgp
+  L16973: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L16977: CC(remember):ModMenuScreen.kt#9igjgp
+  L17004: CC(remember):ModMenuScreen.kt#9igjgp
+  L17021: CC(remember):ModMenuScreen.kt#9igjgp
+  L17048: $this$BoxWithConstraints
+  L17049: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L17060: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L17063: 435@18134L26
+  L17092: $this$AnimatedVisibility
+  L17093: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L17095: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L17102: CC(remember):ModMenuScreen.kt#9igjgp
+  L17118: it
+  L17127: CC(remember):ModMenuScreen.kt#9igjgp
+  L17192: $this$AnimatedVisibility
+  L17193: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L17195: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L17201: CC(remember):ModMenuScreen.kt#9igjgp
+  L17228: CC(remember):ModMenuScreen.kt#9igjgp
+  L17254: CC(remember):ModMenuScreen.kt#9igjgp
+  L17305: CC(remember):ModMenuScreen.kt#9igjgp
+  L17336: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L17340: CC(remember):ModMenuScreen.kt#9igjgp
+  L17367: CC(remember):ModMenuScreen.kt#9igjgp
+  L17384: CC(remember):ModMenuScreen.kt#9igjgp
+  L17411: $this$BoxWithConstraints
+  L17412: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L17423: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L17426: 435@18134L26
+  L17455: $this$AnimatedVisibility
+  L17456: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L17458: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L17465: CC(remember):ModMenuScreen.kt#9igjgp
+  L17481: it
+  L17490: CC(remember):ModMenuScreen.kt#9igjgp
+  L17555: $this$AnimatedVisibility
+  L17556: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L17558: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L17564: CC(remember):ModMenuScreen.kt#9igjgp
+  L17591: CC(remember):ModMenuScreen.kt#9igjgp
+  L17617: CC(remember):ModMenuScreen.kt#9igjgp
+  L17701: CC(remember):ModMenuScreen.kt#9igjgp
+  L17732: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L17736: CC(remember):ModMenuScreen.kt#9igjgp
+  L17763: CC(remember):ModMenuScreen.kt#9igjgp
+  L17780: CC(remember):ModMenuScreen.kt#9igjgp
+  L17807: $this$BoxWithConstraints
+  L17808: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L17819: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L17822: 435@18134L26
+  L17851: $this$AnimatedVisibility
+  L17852: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L17854: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L17861: CC(remember):ModMenuScreen.kt#9igjgp
+  L17877: it
+  L17886: CC(remember):ModMenuScreen.kt#9igjgp
+  L17951: $this$AnimatedVisibility
+  L17952: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L17954: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L17960: CC(remember):ModMenuScreen.kt#9igjgp
+  L17987: CC(remember):ModMenuScreen.kt#9igjgp
+  L18013: CC(remember):ModMenuScreen.kt#9igjgp
+  L18064: CC(remember):ModMenuScreen.kt#9igjgp
+  L18095: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L18099: CC(remember):ModMenuScreen.kt#9igjgp
+  L18126: CC(remember):ModMenuScreen.kt#9igjgp
+  L18143: CC(remember):ModMenuScreen.kt#9igjgp
+  L18170: $this$BoxWithConstraints
+  L18171: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L18182: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L18185: 435@18134L26
+  L18214: $this$AnimatedVisibility
+  L18215: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L18217: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L18224: CC(remember):ModMenuScreen.kt#9igjgp
+  L18240: it
+  L18249: CC(remember):ModMenuScreen.kt#9igjgp
+  L18314: $this$AnimatedVisibility
+  L18315: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L18317: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L18323: CC(remember):ModMenuScreen.kt#9igjgp
+  L18350: CC(remember):ModMenuScreen.kt#9igjgp
+  L18376: CC(remember):ModMenuScreen.kt#9igjgp
+  L18449: CC(remember):ModMenuScreen.kt#9igjgp
+  L18480: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L18484: CC(remember):ModMenuScreen.kt#9igjgp
+  L18511: CC(remember):ModMenuScreen.kt#9igjgp
+  L18528: CC(remember):ModMenuScreen.kt#9igjgp
+  L18555: $this$BoxWithConstraints
+  L18556: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L18567: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L18570: 435@18134L26
+  L18599: $this$AnimatedVisibility
+  L18600: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L18602: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L18609: CC(remember):ModMenuScreen.kt#9igjgp
+  L18625: it
+  L18634: CC(remember):ModMenuScreen.kt#9igjgp
+  L18699: $this$AnimatedVisibility
+  L18700: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L18702: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L18708: CC(remember):ModMenuScreen.kt#9igjgp
+  L18735: CC(remember):ModMenuScreen.kt#9igjgp
+  L18761: CC(remember):ModMenuScreen.kt#9igjgp
+  L18812: CC(remember):ModMenuScreen.kt#9igjgp
+  L18843: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L18847: CC(remember):ModMenuScreen.kt#9igjgp
+  L18874: CC(remember):ModMenuScreen.kt#9igjgp
+  L18891: CC(remember):ModMenuScreen.kt#9igjgp
+  L18918: $this$BoxWithConstraints
+  L18919: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L18930: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L18933: 435@18134L26
+  L18962: $this$AnimatedVisibility
+  L18963: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L18965: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L18972: CC(remember):ModMenuScreen.kt#9igjgp
+  L18988: it
+  L18997: CC(remember):ModMenuScreen.kt#9igjgp
+  L19062: $this$AnimatedVisibility
+  L19063: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L19065: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L19071: CC(remember):ModMenuScreen.kt#9igjgp
+  L19098: CC(remember):ModMenuScreen.kt#9igjgp
+  L19124: CC(remember):ModMenuScreen.kt#9igjgp
+  L19230: CC(remember):ModMenuScreen.kt#9igjgp
+  L19261: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L19265: CC(remember):ModMenuScreen.kt#9igjgp
+  L19292: CC(remember):ModMenuScreen.kt#9igjgp
+  L19309: CC(remember):ModMenuScreen.kt#9igjgp
+  L19336: $this$BoxWithConstraints
+  L19337: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L19348: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L19351: 435@18134L26
+  L19380: $this$AnimatedVisibility
+  L19381: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L19383: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L19390: CC(remember):ModMenuScreen.kt#9igjgp
+  L19406: it
+  L19415: CC(remember):ModMenuScreen.kt#9igjgp
+  L19480: $this$AnimatedVisibility
+  L19481: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L19483: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L19489: CC(remember):ModMenuScreen.kt#9igjgp
+  L19516: CC(remember):ModMenuScreen.kt#9igjgp
+  L19542: CC(remember):ModMenuScreen.kt#9igjgp
+  L19593: CC(remember):ModMenuScreen.kt#9igjgp
+  L19624: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L19628: CC(remember):ModMenuScreen.kt#9igjgp
+  L19655: CC(remember):ModMenuScreen.kt#9igjgp
+  L19672: CC(remember):ModMenuScreen.kt#9igjgp
+  L19699: $this$BoxWithConstraints
+  L19700: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L19711: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L19714: 435@18134L26
+  L19743: $this$AnimatedVisibility
+  L19744: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L19746: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L19753: CC(remember):ModMenuScreen.kt#9igjgp
+  L19769: it
+  L19778: CC(remember):ModMenuScreen.kt#9igjgp
+  L19843: $this$AnimatedVisibility
+  L19844: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L19846: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L19852: CC(remember):ModMenuScreen.kt#9igjgp
+  L19879: CC(remember):ModMenuScreen.kt#9igjgp
+  L19905: CC(remember):ModMenuScreen.kt#9igjgp
+  L19978: CC(remember):ModMenuScreen.kt#9igjgp
+  L20009: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L20013: CC(remember):ModMenuScreen.kt#9igjgp
+  L20040: CC(remember):ModMenuScreen.kt#9igjgp
+  L20057: CC(remember):ModMenuScreen.kt#9igjgp
+  L20084: $this$BoxWithConstraints
+  L20085: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L20096: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L20099: 435@18134L26
+  L20128: $this$AnimatedVisibility
+  L20129: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L20131: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L20138: CC(remember):ModMenuScreen.kt#9igjgp
+  L20154: it
+  L20163: CC(remember):ModMenuScreen.kt#9igjgp
+  L20228: $this$AnimatedVisibility
+  L20229: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L20231: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L20237: CC(remember):ModMenuScreen.kt#9igjgp
+  L20264: CC(remember):ModMenuScreen.kt#9igjgp
+  L20290: CC(remember):ModMenuScreen.kt#9igjgp
+  L20341: CC(remember):ModMenuScreen.kt#9igjgp
+  L20372: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L20376: CC(remember):ModMenuScreen.kt#9igjgp
+  L20403: CC(remember):ModMenuScreen.kt#9igjgp
+  L20420: CC(remember):ModMenuScreen.kt#9igjgp
+  L20447: $this$BoxWithConstraints
+  L20448: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L20459: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L20462: 435@18134L26
+  L20491: $this$AnimatedVisibility
+  L20492: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L20494: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L20501: CC(remember):ModMenuScreen.kt#9igjgp
+  L20517: it
+  L20526: CC(remember):ModMenuScreen.kt#9igjgp
+  L20591: $this$AnimatedVisibility
+  L20592: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L20594: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L20600: CC(remember):ModMenuScreen.kt#9igjgp
+  L20627: CC(remember):ModMenuScreen.kt#9igjgp
+  L20653: CC(remember):ModMenuScreen.kt#9igjgp
+  L20737: CC(remember):ModMenuScreen.kt#9igjgp
+  L20768: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L20772: CC(remember):ModMenuScreen.kt#9igjgp
+  L20799: CC(remember):ModMenuScreen.kt#9igjgp
+  L20816: CC(remember):ModMenuScreen.kt#9igjgp
+  L20843: $this$BoxWithConstraints
+  L20844: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L20855: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L20858: 435@18134L26
+  L20887: $this$AnimatedVisibility
+  L20888: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L20890: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L20897: CC(remember):ModMenuScreen.kt#9igjgp
+  L20913: it
+  L20922: CC(remember):ModMenuScreen.kt#9igjgp
+  L20987: $this$AnimatedVisibility
+  L20988: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L20990: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L20996: CC(remember):ModMenuScreen.kt#9igjgp
+  L21023: CC(remember):ModMenuScreen.kt#9igjgp
+  L21049: CC(remember):ModMenuScreen.kt#9igjgp
+  L21100: CC(remember):ModMenuScreen.kt#9igjgp
+  L21131: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L21135: CC(remember):ModMenuScreen.kt#9igjgp
+  L21162: CC(remember):ModMenuScreen.kt#9igjgp
+  L21179: CC(remember):ModMenuScreen.kt#9igjgp
+  L21206: $this$BoxWithConstraints
+  L21207: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L21218: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L21221: 435@18134L26
+  L21250: $this$AnimatedVisibility
+  L21251: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L21253: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L21260: CC(remember):ModMenuScreen.kt#9igjgp
+  L21276: it
+  L21285: CC(remember):ModMenuScreen.kt#9igjgp
+  L21350: $this$AnimatedVisibility
+  L21351: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L21353: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L21359: CC(remember):ModMenuScreen.kt#9igjgp
+  L21386: CC(remember):ModMenuScreen.kt#9igjgp
+  L21412: CC(remember):ModMenuScreen.kt#9igjgp
+  L21485: CC(remember):ModMenuScreen.kt#9igjgp
+  L21516: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L21520: CC(remember):ModMenuScreen.kt#9igjgp
+  L21547: CC(remember):ModMenuScreen.kt#9igjgp
+  L21564: CC(remember):ModMenuScreen.kt#9igjgp
+  L21591: $this$BoxWithConstraints
+  L21592: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L21603: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L21606: 435@18134L26
+  L21635: $this$AnimatedVisibility
+  L21636: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L21638: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L21645: CC(remember):ModMenuScreen.kt#9igjgp
+  L21661: it
+  L21670: CC(remember):ModMenuScreen.kt#9igjgp
+  L21735: $this$AnimatedVisibility
+  L21736: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L21738: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L21744: CC(remember):ModMenuScreen.kt#9igjgp
+  L21771: CC(remember):ModMenuScreen.kt#9igjgp
+  L21797: CC(remember):ModMenuScreen.kt#9igjgp
+  L21848: CC(remember):ModMenuScreen.kt#9igjgp
+  L21879: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L21883: CC(remember):ModMenuScreen.kt#9igjgp
+  L21910: CC(remember):ModMenuScreen.kt#9igjgp
+  L21927: CC(remember):ModMenuScreen.kt#9igjgp
+  L21954: $this$BoxWithConstraints
+  L21955: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L21966: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L21969: 435@18134L26
+  L21998: $this$AnimatedVisibility
+  L21999: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L22001: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L22008: CC(remember):ModMenuScreen.kt#9igjgp
+  L22024: it
+  L22033: CC(remember):ModMenuScreen.kt#9igjgp
+  L22098: $this$AnimatedVisibility
+  L22099: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L22101: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L22107: CC(remember):ModMenuScreen.kt#9igjgp
+  L22134: CC(remember):ModMenuScreen.kt#9igjgp
+  L22160: CC(remember):ModMenuScreen.kt#9igjgp
+  L22255: CC(remember):ModMenuScreen.kt#9igjgp
+  L22286: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L22290: CC(remember):ModMenuScreen.kt#9igjgp
+  L22317: CC(remember):ModMenuScreen.kt#9igjgp
+  L22334: CC(remember):ModMenuScreen.kt#9igjgp
+  L22361: $this$BoxWithConstraints
+  L22362: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L22373: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L22376: 435@18134L26
+  L22405: $this$AnimatedVisibility
+  L22406: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L22408: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L22415: CC(remember):ModMenuScreen.kt#9igjgp
+  L22431: it
+  L22440: CC(remember):ModMenuScreen.kt#9igjgp
+  L22505: $this$AnimatedVisibility
+  L22506: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L22508: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L22514: CC(remember):ModMenuScreen.kt#9igjgp
+  L22541: CC(remember):ModMenuScreen.kt#9igjgp
+  L22567: CC(remember):ModMenuScreen.kt#9igjgp
+  L22618: CC(remember):ModMenuScreen.kt#9igjgp
+  L22649: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L22653: CC(remember):ModMenuScreen.kt#9igjgp
+  L22680: CC(remember):ModMenuScreen.kt#9igjgp
+  L22697: CC(remember):ModMenuScreen.kt#9igjgp
+  L22724: $this$BoxWithConstraints
+  L22725: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L22736: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L22739: 435@18134L26
+  L22768: $this$AnimatedVisibility
+  L22769: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L22771: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L22778: CC(remember):ModMenuScreen.kt#9igjgp
+  L22794: it
+  L22803: CC(remember):ModMenuScreen.kt#9igjgp
+  L22868: $this$AnimatedVisibility
+  L22869: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L22871: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L22877: CC(remember):ModMenuScreen.kt#9igjgp
+  L22904: CC(remember):ModMenuScreen.kt#9igjgp
+  L22930: CC(remember):ModMenuScreen.kt#9igjgp
+  L23003: CC(remember):ModMenuScreen.kt#9igjgp
+  L23034: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L23038: CC(remember):ModMenuScreen.kt#9igjgp
+  L23065: CC(remember):ModMenuScreen.kt#9igjgp
+  L23082: CC(remember):ModMenuScreen.kt#9igjgp
+  L23109: $this$BoxWithConstraints
+  L23110: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L23121: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L23124: 435@18134L26
+  L23153: $this$AnimatedVisibility
+  L23154: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L23156: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L23163: CC(remember):ModMenuScreen.kt#9igjgp
+  L23179: it
+  L23188: CC(remember):ModMenuScreen.kt#9igjgp
+  L23253: $this$AnimatedVisibility
+  L23254: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L23256: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L23262: CC(remember):ModMenuScreen.kt#9igjgp
+  L23289: CC(remember):ModMenuScreen.kt#9igjgp
+  L23315: CC(remember):ModMenuScreen.kt#9igjgp
+  L23366: CC(remember):ModMenuScreen.kt#9igjgp
+  L23397: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L23401: CC(remember):ModMenuScreen.kt#9igjgp
+  L23428: CC(remember):ModMenuScreen.kt#9igjgp
+  L23445: CC(remember):ModMenuScreen.kt#9igjgp
+  L23472: $this$BoxWithConstraints
+  L23473: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L23484: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L23487: 435@18134L26
+  L23516: $this$AnimatedVisibility
+  L23517: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L23519: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L23526: CC(remember):ModMenuScreen.kt#9igjgp
+  L23542: it
+  L23551: CC(remember):ModMenuScreen.kt#9igjgp
+  L23616: $this$AnimatedVisibility
+  L23617: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L23619: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L23625: CC(remember):ModMenuScreen.kt#9igjgp
+  L23652: CC(remember):ModMenuScreen.kt#9igjgp
+  L23678: CC(remember):ModMenuScreen.kt#9igjgp
+  L23762: CC(remember):ModMenuScreen.kt#9igjgp
+  L23793: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L23797: CC(remember):ModMenuScreen.kt#9igjgp
+  L23824: CC(remember):ModMenuScreen.kt#9igjgp
+  L23841: CC(remember):ModMenuScreen.kt#9igjgp
+  L23868: $this$BoxWithConstraints
+  L23869: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L23880: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L23883: 435@18134L26
+  L23912: $this$AnimatedVisibility
+  L23913: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L23915: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L23922: CC(remember):ModMenuScreen.kt#9igjgp
+  L23938: it
+  L23947: CC(remember):ModMenuScreen.kt#9igjgp
+  L24012: $this$AnimatedVisibility
+  L24013: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L24015: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L24021: CC(remember):ModMenuScreen.kt#9igjgp
+  L24048: CC(remember):ModMenuScreen.kt#9igjgp
+  L24074: CC(remember):ModMenuScreen.kt#9igjgp
+  L24125: CC(remember):ModMenuScreen.kt#9igjgp
+  L24156: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L24160: CC(remember):ModMenuScreen.kt#9igjgp
+  L24187: CC(remember):ModMenuScreen.kt#9igjgp
+  L24204: CC(remember):ModMenuScreen.kt#9igjgp
+  L24231: $this$BoxWithConstraints
+  L24232: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L24243: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L24246: 435@18134L26
+  L24275: $this$AnimatedVisibility
+  L24276: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L24278: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L24285: CC(remember):ModMenuScreen.kt#9igjgp
+  L24301: it
+  L24310: CC(remember):ModMenuScreen.kt#9igjgp
+  L24375: $this$AnimatedVisibility
+  L24376: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L24378: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L24384: CC(remember):ModMenuScreen.kt#9igjgp
+  L24411: CC(remember):ModMenuScreen.kt#9igjgp
+  L24437: CC(remember):ModMenuScreen.kt#9igjgp
+  L24510: CC(remember):ModMenuScreen.kt#9igjgp
+  L24541: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L24545: CC(remember):ModMenuScreen.kt#9igjgp
+  L24572: CC(remember):ModMenuScreen.kt#9igjgp
+  L24589: CC(remember):ModMenuScreen.kt#9igjgp
+  L24616: $this$BoxWithConstraints
+  L24617: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L24628: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L24631: 435@18134L26
+  L24660: $this$AnimatedVisibility
+  L24661: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L24663: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L24670: CC(remember):ModMenuScreen.kt#9igjgp
+  L24686: it
+  L24695: CC(remember):ModMenuScreen.kt#9igjgp
+  L24760: $this$AnimatedVisibility
+  L24761: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L24763: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L24769: CC(remember):ModMenuScreen.kt#9igjgp
+  L24796: CC(remember):ModMenuScreen.kt#9igjgp
+  L24822: CC(remember):ModMenuScreen.kt#9igjgp
+  L24873: CC(remember):ModMenuScreen.kt#9igjgp
+  L24904: com.samurai.vengine.screens.modmenu.ModMenuScreen (ModMenuScreen.kt:399)
+  L24908: CC(remember):ModMenuScreen.kt#9igjgp
+  L24935: CC(remember):ModMenuScreen.kt#9igjgp
+  L24952: CC(remember):ModMenuScreen.kt#9igjgp
+  L24979: $this$BoxWithConstraints
+  L24980: C443@18286L358,455@18654L1275,488@19939L1091:ModMenuScreen.kt#pzbqk3
+  L24991: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous> (ModMenuScreen.kt:431)
+  L24994: 435@18134L26
+  L25023: $this$AnimatedVisibility
+  L25024: C476@19564L26,477@19618L92,473@19438L481:ModMenuScreen.kt#pzbqk3
+  L25026: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:470)
+  L25033: CC(remember):ModMenuScreen.kt#9igjgp
+  L25049: it
+  L25058: CC(remember):ModMenuScreen.kt#9igjgp
+  L25123: $this$AnimatedVisibility
+  L25124: C504@20664L152,508@20854L38,509@20923L25,500@20472L548:ModMenuScreen.kt#pzbqk3
+  L25126: com.samurai.vengine.screens.modmenu.ModMenuScreen.<anonymous>.<anonymous> (ModMenuScreen.kt:500)
+  L25132: CC(remember):ModMenuScreen.kt#9igjgp
+  L25159: CC(remember):ModMenuScreen.kt#9igjgp
+  L25185: CC(remember):ModMenuScreen.kt#9igjgp
+  L25320: C(PocketFxPreview)P(2,1)2038@82268L53,2039@82358L185,2081@83979L942,2081@83951L970:ModMenuScreen.kt#pzbqk3
+  L25357: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L25359: pocketFxPreview
+  L25359: pocketFxPhase
+  L25377: 2055@82927L998
+  L25386: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L25389: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L25413: C73@3426L9:Box.kt#2w3rfo
+  L25415: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L25423: $this$Canvas
+  L25434: CC(remember):ModMenuScreen.kt#9igjgp
+  L25450: $this$graphicsLayer
+  L25498: CC(remember):ModMenuScreen.kt#9igjgp
+  L25519: $this$Canvas
+  L25581: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L25583: pocketFxPreview
+  L25583: pocketFxPhase
+  L25601: 2055@82927L998
+  L25610: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L25613: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L25640: C73@3426L9:Box.kt#2w3rfo
+  L25642: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L25650: $this$Canvas
+  L25661: CC(remember):ModMenuScreen.kt#9igjgp
+  L25677: $this$graphicsLayer
+  L25698: $this$graphicsLayer
+  L25746: CC(remember):ModMenuScreen.kt#9igjgp
+  L25767: $this$Canvas
+  L25797: $this$Canvas
+  L25833: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L25835: pocketFxPreview
+  L25835: pocketFxPhase
+  L25853: 2055@82927L998
+  L25862: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L25865: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L25892: C73@3426L9:Box.kt#2w3rfo
+  L25894: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L25902: $this$Canvas
+  L25913: CC(remember):ModMenuScreen.kt#9igjgp
+  L25929: $this$graphicsLayer
+  L25950: $this$graphicsLayer
+  L25998: CC(remember):ModMenuScreen.kt#9igjgp
+  L26019: $this$Canvas
+  L26049: $this$Canvas
+  L26119: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L26121: pocketFxPreview
+  L26121: pocketFxPhase
+  L26139: 2055@82927L998
+  L26148: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L26151: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L26178: C73@3426L9:Box.kt#2w3rfo
+  L26180: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L26188: $this$Canvas
+  L26199: CC(remember):ModMenuScreen.kt#9igjgp
+  L26215: $this$graphicsLayer
+  L26236: $this$graphicsLayer
+  L26284: CC(remember):ModMenuScreen.kt#9igjgp
+  L26305: $this$Canvas
+  L26335: $this$Canvas
+  L26371: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L26373: pocketFxPreview
+  L26373: pocketFxPhase
+  L26391: 2055@82927L998
+  L26400: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L26403: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L26430: C73@3426L9:Box.kt#2w3rfo
+  L26432: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L26440: $this$Canvas
+  L26451: CC(remember):ModMenuScreen.kt#9igjgp
+  L26467: $this$graphicsLayer
+  L26488: $this$graphicsLayer
+  L26536: CC(remember):ModMenuScreen.kt#9igjgp
+  L26557: $this$Canvas
+  L26587: $this$Canvas
+  L26646: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L26648: pocketFxPreview
+  L26648: pocketFxPhase
+  L26666: 2055@82927L998
+  L26675: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L26678: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L26705: C73@3426L9:Box.kt#2w3rfo
+  L26707: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L26715: $this$Canvas
+  L26726: CC(remember):ModMenuScreen.kt#9igjgp
+  L26742: $this$graphicsLayer
+  L26763: $this$graphicsLayer
+  L26811: CC(remember):ModMenuScreen.kt#9igjgp
+  L26832: $this$Canvas
+  L26862: $this$Canvas
+  L26898: com.samurai.vengine.screens.modmenu.PocketFxPreview (ModMenuScreen.kt:2037)
+  L26900: pocketFxPreview
+  L26900: pocketFxPhase
+  L26918: 2055@82927L998
+  L26927: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L26930: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L26957: C73@3426L9:Box.kt#2w3rfo
+  L26959: C2059@83038L312,2071@83621L279,2065@83363L552:ModMenuScreen.kt#pzbqk3
+  L26967: $this$Canvas
+  L26978: CC(remember):ModMenuScreen.kt#9igjgp
+  L26994: $this$graphicsLayer
+  L27015: $this$graphicsLayer
+  L27063: CC(remember):ModMenuScreen.kt#9igjgp
+  L27084: $this$Canvas
+  L27114: $this$Canvas
+  L27169: C(QueueTab)1265@52493L1264:ModMenuScreen.kt#pzbqk3
+  L27179: com.samurai.vengine.screens.modmenu.QueueTab (ModMenuScreen.kt:1264)
+  L27183: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L27187: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27211: C79@3979L9:Column.kt#2w3rfo
+  L27213: C1266@52560L26,1267@52636L24,1267@52595L65,1275@53024L28,1268@52669L394,1277@53072L27,1291@53628L33,1291@53558L103,1292@53723L28,1292@53670L81:ModMenuScreen.kt#pzbqk3
+  L27214: AUTO QUEUE
+  L27215: Auto Queue
+  L27218: CC(remember):ModMenuScreen.kt#9igjgp
+  L27241: Queue Mode
+  L27242: 8Ball
+  L27242: 9Ball
+  L27245: CC(remember):ModMenuScreen.kt#9igjgp
+  L27267: FIXED TABLE
+  L27270: 1282@53281L32,1279@53152L176
+  L27274: CC(remember):ModMenuScreen.kt#9igjgp
+  L27289: it
+  L27300: 1288@53493L31,1285@53358L181
+  L27304: CC(remember):ModMenuScreen.kt#9igjgp
+  L27328: Select Highest Table Available
+  L27331: CC(remember):ModMenuScreen.kt#9igjgp
+  L27353: Stop at Coin Limit
+  L27356: CC(remember):ModMenuScreen.kt#9igjgp
+  L27413: C(SectionLabel)2985@119690L196:ModMenuScreen.kt#pzbqk3
+  L27424: com.samurai.vengine.screens.modmenu.SectionLabel (ModMenuScreen.kt:2984)
+  L27456: C(SegmentedControl)P(!1,2,3)3115@123392L3977:ModMenuScreen.kt#pzbqk3
+  L27459: com.samurai.vengine.screens.modmenu.SegmentedControl (ModMenuScreen.kt:3114)
+  L27495: C(SettingCard)P(1)2999@120019L252:ModMenuScreen.kt#pzbqk3
+  L27518: com.samurai.vengine.screens.modmenu.SettingCard (ModMenuScreen.kt:2998)
+  L27533: C3005@120240L25:ModMenuScreen.kt#pzbqk3
+  L27539: com.samurai.vengine.screens.modmenu.SettingCard.<anonymous> (ModMenuScreen.kt:3005)
+  L27543: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L27547: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27571: C79@3979L9:Column.kt#2w3rfo
+  L27611: C(SettingsTab)2624@107500L7,2626@107513L3279:ModMenuScreen.kt#pzbqk3
+  L27621: com.samurai.vengine.screens.modmenu.SettingsTab (ModMenuScreen.kt:2623)
+  L27624: CC:CompositionLocal.kt#9igjgp
+  L27631: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L27635: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27659: C79@3979L9:Column.kt#2w3rfo
+  L27661: C2627@107580L32,2628@107621L27,2630@107658L29,2631@107735L23,2631@107696L62,2633@107768L25,2635@107810L42,2636@107861L42,2637@107912L40,2638@107961L66,2639@108036L49,2640@108094L51,2641@108154L61,2645@108235L29,2646@108273L561,2664@108844L24,2665@108877L1908:ModMenuScreen.kt#pzbqk3
+  L27662: GAME INFORMATION
+  L27665: GAME SETTINGS
+  L27666: Block Ads
+  L27669: CC(remember):ModMenuScreen.kt#9igjgp
+  L27691: USER INFO
+  L27692: Level
+  L27693: Coins
+  L27694: Cash
+  L27695: Total Games Played
+  L27696: Games Won
+  L27697: Win Streak
+  L27698: Tournaments Won
+  L27699: SETTINGS FILE
+  L27702: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L27706: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27730: C92@4661L9:Row.kt#2w3rfo
+  L27732: C2647@108343L214,2658@108719L105,2654@108570L254:ModMenuScreen.kt#pzbqk3
+  L27733: Save Settings
+  L27744: Load Settings
+  L27747: CC(remember):ModMenuScreen.kt#9igjgp
+  L27777: ABOUT US
+  L27790: $this$SettingCard
+  L27791: C2666@108903L1872:ModMenuScreen.kt#pzbqk3
+  L27797: com.samurai.vengine.screens.modmenu.SettingsTab.<anonymous>.<anonymous> (ModMenuScreen.kt:2666)
+  L27803: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L27806: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27830: C92@4661L9:Row.kt#2w3rfo
+  L27832: C2672@109144L196,2678@109357L1404:ModMenuScreen.kt#pzbqk3
+  L27833: Official Telegram
+  L27848: android.intent.action.VIEW
+  L27848: https://t.me/Samurai_8BP
+  L27849: addFlags(...)
+  L27861: Unable to open Telegram
+  L27910: C(SliderSetting)P(!1,2!1,4)3017@120467L1018:ModMenuScreen.kt#pzbqk3
+  L27932: com.samurai.vengine.screens.modmenu.SliderSetting (ModMenuScreen.kt:3016)
+  L27947: $this$SettingCard
+  L27948: C3018@120489L990:ModMenuScreen.kt#pzbqk3
+  L27954: com.samurai.vengine.screens.modmenu.SliderSetting.<anonymous> (ModMenuScreen.kt:3018)
+  L27963: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L27966: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L27990: C79@3979L9:Column.kt#2w3rfo
+  L27992: C3019@120576L304,3032@121060L286,3028@120893L576:ModMenuScreen.kt#pzbqk3
+  L27995: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L27999: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28023: C92@4661L9:Row.kt#2w3rfo
+  L28025: C3020@120646L182,3026@120845L21:ModMenuScreen.kt#pzbqk3
+  L28100: C(TableSkinCard)P(1,5!1,3)1192@49630L1002:ModMenuScreen.kt#pzbqk3
+  L28150: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28180: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28186: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28194: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28197: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28221: C79@3979L9:Column.kt#2w3rfo
+  L28223: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28227: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28230: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28254: C73@3426L9:Box.kt#2w3rfo
+  L28256: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L28312: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28342: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28348: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28356: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28359: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28383: C79@3979L9:Column.kt#2w3rfo
+  L28385: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28389: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28392: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28416: C73@3426L9:Box.kt#2w3rfo
+  L28418: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L28448: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28478: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28484: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28492: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28495: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28519: C79@3979L9:Column.kt#2w3rfo
+  L28521: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28525: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28528: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28552: C73@3426L9:Box.kt#2w3rfo
+  L28554: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L28614: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28644: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28650: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28658: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28661: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28685: C79@3979L9:Column.kt#2w3rfo
+  L28687: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28691: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28694: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28718: C73@3426L9:Box.kt#2w3rfo
+  L28720: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L28750: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28780: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28786: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28794: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28797: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28821: C79@3979L9:Column.kt#2w3rfo
+  L28823: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28827: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28830: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28854: C73@3426L9:Box.kt#2w3rfo
+  L28856: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L28908: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L28938: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L28944: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L28952: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L28955: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L28979: C79@3979L9:Column.kt#2w3rfo
+  L28981: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L28985: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L28988: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L29012: C73@3426L9:Box.kt#2w3rfo
+  L29014: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L29044: com.samurai.vengine.screens.modmenu.TableSkinCard (ModMenuScreen.kt:1191)
+  L29074: C1201@49989L637:ModMenuScreen.kt#pzbqk3
+  L29080: com.samurai.vengine.screens.modmenu.TableSkinCard.<anonymous> (ModMenuScreen.kt:1201)
+  L29088: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L29091: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L29115: C79@3979L9:Column.kt#2w3rfo
+  L29117: C1205@50177L151,1209@50341L40,1210@50394L222:ModMenuScreen.kt#pzbqk3
+  L29121: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L29124: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L29148: C73@3426L9:Box.kt#2w3rfo
+  L29150: C1208@50317L9:ModMenuScreen.kt#pzbqk3
+  L29268: C(TableSkinGallery)1056@42958L7,1057@42987L100,1060@43107L75,1061@43199L24,1062@43248L53,1075@43709L277,1089@44271L165,1093@44520L443,1102@44969L4449:ModMenuScreen.kt#pzbqk3
+  L29274: com.samurai.vengine.screens.modmenu.TableSkinGallery (ModMenuScreen.kt:1055)
+  L29277: CC:CompositionLocal.kt#9igjgp
+  L29283: CC(remember):ModMenuScreen.kt#9igjgp
+  L29288: getApplicationContext(...)
+  L29295: CC(remember):ModMenuScreen.kt#9igjgp
+  L29305: CC(rememberCoroutineScope)489@20472L144:Effects.kt#9igjgp
+  L29307: CC(remember):Composables.kt#9igjgp
+  L29318: CC(remember):ModMenuScreen.kt#9igjgp
+  L29332: CC(remember):ModMenuScreen.kt#9igjgp
+  L29364: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L29368: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L29392: C79@3979L9:Column.kt#2w3rfo
+  L29394: C1103@45036L151:ModMenuScreen.kt#pzbqk3
+  L29400: Browser theme artwork. Download once; stored locally.
+  L29403: *1109@45279L4123
+  L29644: C:ModMenuScreen.kt#pzbqk3
+  L29650: com.samurai.vengine.screens.modmenu.TableSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1119)
+  L29654: 1120@45882L53
+  L29655: Original
+  L29659: 1122@46005L319
+  L29661: Custom Tokyo table
+  L29677: 1137@46767L2501
+  L29742: call to 'resume' before 'invoke' with coroutine
+  L29787: call to 'resume' before 'invoke' with coroutine
+  L29825: getAbsolutePath(...)
+  L29840: C:ModMenuScreen.kt#pzbqk3
+  L29846: com.samurai.vengine.screens.modmenu.TableSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1160)
+  L29851: 1161@48296L343
+  L29856: 1167@48705L54
+  L29857: Loading...
+  L29861: 1168@48829L55
+  L29862: Unavailable
+  L29866: 1169@48948L264
+  L29869: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L29873: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L29897: C79@3979L9:Column.kt#2w3rfo
+  L29899: C1170@49045L50,1171@49132L46:ModMenuScreen.kt#pzbqk3
+  L29900: Failed
+  L29901: Retry
+  L29935: *1177@49348L38
+  L29989: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L29993: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L30020: C79@3979L9:Column.kt#2w3rfo
+  L30022: C1103@45036L151:ModMenuScreen.kt#pzbqk3
+  L30028: Browser theme artwork. Download once; stored locally.
+  L30031: *1109@45279L4123
+  L30293: C:ModMenuScreen.kt#pzbqk3
+  L30299: com.samurai.vengine.screens.modmenu.TableSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1119)
+  L30303: 1120@45882L53
+  L30304: Original
+  L30308: 1122@46005L319
+  L30310: Custom Tokyo table
+  L30326: 1137@46767L2501
+  L30391: call to 'resume' before 'invoke' with coroutine
+  L30436: call to 'resume' before 'invoke' with coroutine
+  L30474: getAbsolutePath(...)
+  L30489: C:ModMenuScreen.kt#pzbqk3
+  L30495: com.samurai.vengine.screens.modmenu.TableSkinGallery.<anonymous>.<anonymous>.<anonymous>.<anonymous>.<anonymous> (ModMenuScreen.kt:1160)
+  L30500: 1161@48296L343
+  L30505: 1167@48705L54
+  L30506: Loading...
+  L30510: 1168@48829L55
+  L30511: Unavailable
+  L30515: 1169@48948L264
+  L30518: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L30522: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L30546: C79@3979L9:Column.kt#2w3rfo
+  L30548: C1170@49045L50,1171@49132L46:ModMenuScreen.kt#pzbqk3
+  L30549: Failed
+  L30550: Retry
+  L30584: *1177@49348L38
+  L30679: call to 'resume' before 'invoke' with coroutine
+  L30705: C(TimeBox)P(1)837@32170L715:ModMenuScreen.kt#pzbqk3
+  L30719: com.samurai.vengine.screens.modmenu.TimeBox (ModMenuScreen.kt:836)
+  L30723: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L30727: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L30751: C79@3979L9:Column.kt#2w3rfo
+  L30753: C838@32239L478,853@32726L153:ModMenuScreen.kt#pzbqk3
+  L30757: CC(Box)P(2,1,3)71@3309L67,72@3381L130:Box.kt#2w3rfo
+  L30760: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L30784: C73@3426L9:Box.kt#2w3rfo
+  L30786: C846@32517L190:ModMenuScreen.kt#pzbqk3
+  L30831: C(ToggleRow)P(1)3068@121952L1150:ModMenuScreen.kt#pzbqk3
+  L30847: com.samurai.vengine.screens.modmenu.ToggleRow (ModMenuScreen.kt:3067)
+  L30862: C3074@122173L923:ModMenuScreen.kt#pzbqk3
+  L30868: com.samurai.vengine.screens.modmenu.ToggleRow.<anonymous> (ModMenuScreen.kt:3074)
+  L30877: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L30880: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L30904: C92@4661L9:Row.kt#2w3rfo
+  L30906: C3080@122407L162,3089@122716L355,3086@122582L504:ModMenuScreen.kt#pzbqk3
+  L30948: C(TrailPreview)3457@137689L595:ModMenuScreen.kt#pzbqk3
+  L30953: com.samurai.vengine.screens.modmenu.TrailPreview (ModMenuScreen.kt:3456)
+  L30962: $this$Canvas
+  L31014: C(TrajectoryCard)P(!1,4,3,2)3294@130799L1567:ModMenuScreen.kt#pzbqk3
+  L31054: com.samurai.vengine.screens.modmenu.TrajectoryCard (ModMenuScreen.kt:3293)
+  L31079: C3302@131101L1259:ModMenuScreen.kt#pzbqk3
+  L31085: com.samurai.vengine.screens.modmenu.TrajectoryCard.<anonymous> (ModMenuScreen.kt:3302)
+  L31092: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L31096: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31120: C79@3979L9:Column.kt#2w3rfo
+  L31122: C3308@131368L794,3303@131174L988,3327@132175L175:ModMenuScreen.kt#pzbqk3
+  L31125: CC(remember):ModMenuScreen.kt#9igjgp
+  L31141: $this$Canvas
+  L31207: com.samurai.vengine.screens.modmenu.TrajectoryCard (ModMenuScreen.kt:3293)
+  L31232: C3302@131101L1259:ModMenuScreen.kt#pzbqk3
+  L31238: com.samurai.vengine.screens.modmenu.TrajectoryCard.<anonymous> (ModMenuScreen.kt:3302)
+  L31245: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L31249: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31273: C79@3979L9:Column.kt#2w3rfo
+  L31275: C3308@131368L794,3303@131174L988,3327@132175L175:ModMenuScreen.kt#pzbqk3
+  L31278: CC(remember):ModMenuScreen.kt#9igjgp
+  L31294: $this$Canvas
+  L31334: com.samurai.vengine.screens.modmenu.TrajectoryCard (ModMenuScreen.kt:3293)
+  L31359: C3302@131101L1259:ModMenuScreen.kt#pzbqk3
+  L31365: com.samurai.vengine.screens.modmenu.TrajectoryCard.<anonymous> (ModMenuScreen.kt:3302)
+  L31372: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L31376: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31400: C79@3979L9:Column.kt#2w3rfo
+  L31402: C3308@131368L794,3303@131174L988,3327@132175L175:ModMenuScreen.kt#pzbqk3
+  L31405: CC(remember):ModMenuScreen.kt#9igjgp
+  L31421: $this$Canvas
+  L31478: C(UserInfoRow)2873@115734L939:ModMenuScreen.kt#pzbqk3
+  L31480: com.samurai.vengine.screens.modmenu.UserInfoRow (ModMenuScreen.kt:2872)
+  L31496: C2879@115955L712:ModMenuScreen.kt#pzbqk3
+  L31502: com.samurai.vengine.screens.modmenu.UserInfoRow.<anonymous> (ModMenuScreen.kt:2879)
+  L31511: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L31514: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31538: C92@4661L9:Row.kt#2w3rfo
+  L31540: C2885@116189L162,2891@116364L293:ModMenuScreen.kt#pzbqk3
+  L31545: %,d
+  L31546: format(...)
+  L31590: C(ValueBadge)3049@121545L279:ModMenuScreen.kt#pzbqk3
+  L31600: com.samurai.vengine.screens.modmenu.ValueBadge (ModMenuScreen.kt:3048)
+  L31614: C3053@121636L182:ModMenuScreen.kt#pzbqk3
+  L31620: com.samurai.vengine.screens.modmenu.ValueBadge.<anonymous> (ModMenuScreen.kt:3053)
+  L31656: C(VisualsTab)864@32951L3257:ModMenuScreen.kt#pzbqk3
+  L31666: com.samurai.vengine.screens.modmenu.VisualsTab (ModMenuScreen.kt:863)
+  L31671: CC(Column)P(2,3,1)77@3865L61,78@3931L133:Column.kt#2w3rfo
+  L31675: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31699: C79@3979L9:Column.kt#2w3rfo
+  L31701: C865@33018L22,866@33091L25,866@33049L67,868@33126L26,869@33214L30,869@33161L83,870@33253L37,871@33299L702,890@34071L34,890@34010L95,891@34169L31,891@34114L86,892@34266L32,892@34209L89,893@34359L24,893@34307L76,894@34445L28,894@34392L135,895@34595L31,895@34536L147,896@34756L33,896@34692L156,897@34903L24,897@34857L117,898@35034L27,898@34983L128,899@35176L29,899@35120L137,900@35313L25,900@35266L125,902@35401L30,907@35632L50,903@35440L253,909@35754L29,909@35702L81,910@35844L27,910@35792L137,911@35990L27,911@35938L137,912@36129L24,912@36084L118:ModMenuScreen.kt#pzbqk3
+  L31702: ENGINE
+  L31703: Enable ESP
+  L31706: CC(remember):ModMenuScreen.kt#9igjgp
+  L31729: PREDICTION
+  L31730: Prediction Lines
+  L31733: CC(remember):ModMenuScreen.kt#9igjgp
+  L31755: TRAJECTORY TURN STYLE
+  L31759: CC(Row)P(2,1,3)90@4553L58,91@4616L130:Row.kt#2w3rfo
+  L31762: CC(Layout)P(!1,2)78@3182L23,80@3272L420:Layout.kt#80mrfh
+  L31786: C92@4661L9:Row.kt#2w3rfo
+  L31788: C879@33613L33,875@33440L269,886@33895L33,882@33722L269:ModMenuScreen.kt#pzbqk3
+  L31789: Normal Turns
+  L31792: CC(remember):ModMenuScreen.kt#9igjgp
+  L31815: Smooth Curves
+  L31818: CC(remember):ModMenuScreen.kt#9igjgp
+  L31847: Prediction Positions
+  L31850: CC(remember):ModMenuScreen.kt#9igjgp
+  L31872: Initial Positions
+  L31875: CC(remember):ModMenuScreen.kt#9igjgp
+  L31897: Prediction Pockets
+  L31900: CC(remember):ModMenuScreen.kt#9igjgp
+  L31922: Prediction Shot State
+  L31925: CC(remember):ModMenuScreen.kt#9igjgp
+  L31947: Line Thickness
+  L31950: CC(remember):ModMenuScreen.kt#9igjgp
+  L31972: Pockets Thickness
+  L31975: CC(remember):ModMenuScreen.kt#9igjgp
+  L31997: Shot State Thickness
+  L32000: CC(remember):ModMenuScreen.kt#9igjgp
+  L32022: Lines Alpha
+  L32025: CC(remember):ModMenuScreen.kt#9igjgp
+  L32047: Pockets Alpha
+  L32050: CC(remember):ModMenuScreen.kt#9igjgp
+  L32072: Shot State Alpha
+  L32075: CC(remember):ModMenuScreen.kt#9igjgp
+  L32097: Pocket Size
+  L32100: CC(remember):ModMenuScreen.kt#9igjgp
+  L32122: TABLE SETTINGS
+  L32123: Table Mode
+  L32124: Custom
+  L32124: Auto
+  L32125: Auto
+  L32125: Custom
+  L32127: CC(remember):ModMenuScreen.kt#9igjgp
+  L32152: it
+  L32153: Custom
+  L32161: Draw Table Shape
+  L32164: CC(remember):ModMenuScreen.kt#9igjgp
+  L32186: Table Offset X
+  L32189: CC(remember):ModMenuScreen.kt#9igjgp
+  L32211: Table Offset Y
+  L32214: CC(remember):ModMenuScreen.kt#9igjgp
+  L32236: Table Size
+  L32239: CC(remember):ModMenuScreen.kt#9igjgp
+  L32261: %.2f
+  L32262: format(...)
+  L32370: get(...)
+  L32373: get(...)
+  L32389: get(...)
+  L32406: get(...)
+  L32409: get(...)
+  L32431: get(...)
+  L32434: get(...)
+  L32448: get(...)
+  L32451: get(...)
+  L32458: get(...)
+  L32467: get(...)
+  L32470: get(...)
+  L32485: get(...)
+  L32488: get(...)
+  L32505: get(...)
+  L32508: get(...)
+  L32537: get(...)
+  L32555: get(...)
+  L32558: get(...)
+  L32585: get(...)
+  L32613: get(...)
+  L32642: get(...)
+  L32645: get(...)
+  L32671: get(...)
+  L32674: get(...)
+  L32684: get(...)
+  L32687: get(...)
+  L32696: get(...)
+  L32699: get(...)
+  L32720: get(...)
+  L32723: get(...)
+  L32743: get(...)
+  L32746: get(...)
+  L32790: get(...)
+  L33040: Lifetime
+  L33042: yyyy-MM-dd HH:mm:ss
+  L33043: format(...)
+  L33049: Lifetime
+  L33053: %02d::%02d::%02d::%02d
+  L33054: format(...)
+  L33106: com.miniclip.eightballpool
+  L33119: ---
+=== com/samurai/vengine/screens/modmenu/ModMenuState.java ===
+  L297: M1
+  L644: id
+  L645: path
+  L670: id
+  L671: path
+  L732: <set-?>
+  L745: <set-?>
+  L750: <set-?>
+  L759: <set-?>
+  L816: <set-?>
+  L821: <set-?>
+  L862: <set-?>
+  L927: <set-?>
+  L932: <set-?>
+  L937: <set-?>
+  L982: <set-?>
+  L987: <set-?>
+  L996: <set-?>
+=== com/samurai/vengine/screens/modmenu/NativeMenuSnapshot.java ===
+  L70: cueSkinPath
+  L71: cueSkinId
+  L72: tableSkinPath
+  L73: tableSkinId
+  L74: selectedQueueMode
+  L405: cueSkinPath
+  L406: cueSkinId
+  L407: tableSkinPath
+  L408: tableSkinId
+  L409: selectedQueueMode
+=== com/samurai/vengine/screens/modmenu/NativeModMenuBridge.java ===
+  L19: bESP
+  L20: bESP_DrawPredictionLine
+  L21: iESP_PredictionLineStyle
+  L22: bESP_DrawPredictionPos
+  L23: bESP_DrawInitialPos
+  L24: bESP_DrawPockets
+  L25: bESP_DrawPocketsShotState
+  L26: bESP_DrawTableShape
+  L27: bAntiCapture
+  L28: fESP_PredictionLineThickness
+  L29: fESP_PocketsThickness
+  L30: fESP_PocketsShotStateThickness
+  L31: fESP_PredictionLineAlpha
+  L32: fESP_PocketsAlpha
+  L33: fESP_PocketsShotStateAlpha
+  L34: fESP_PocketSize
+  L35: iCueSkin_Mode
+  L36: sCueSkin_Path
+  L37: sCueSkin_Id
+  L38: iCueSkin_Revision
+  L39: iTableSkin_Mode
+  L40: sTableSkin_Path
+  L41: sTableSkin_Id
+  L42: iTableSkin_Revision
+  L43: iTable_Mode
+  L44: fESP_TableShapeOffsetX
+  L45: fESP_TableShapeOffsetY
+  L46: fESP_TableShapeSize
+  L47: bAutoPlay
+  L48: iAutoPlay9BallMode
+  L49: bAutoPlay_MultiPocgkets
+  L50: bAutoPlayRandomSpin
+  L51: bAutoPlay_MultiPockets
+  L52: bAutoQueue
+  L53: iAutoQueue_GameMode
+  L54: iAutoQueue9Ball_Bet
+  L55: iAutoQueue_Mode
+  L56: iAutoQueue_BetPercent
+  L57: sAutoQueue_FixedMode
+  L58: bAutoPgy
+  L59: bAutoPlaltiPock
+  L60: iLogo_Mode
+  L61: iLogo_customposition
+  L62: iLogo_Width
+  L63: iLogo_Height
+  L64: iMenuScaleSetr
+  L65: iCueTrail_Style
+  L66: iCueTrail_Length
+  L67: iAutoPlayMode
+  L68: bBlockAds
+  L69: bGoldenShot
+  L70: iGoldenShotTarget
+  L71: iBallImpact_Style
+  L72: iCushionImpact_Style
+  L73: iPocketFx_Style
+  L258: previous
+  L259: current
+  L531: M1
+  L533: M1
+  L602: value
+  L615: message
+=== com/samurai/vengine/screens/modmenu/SegmentedOption.java ===
+  L19: label
+  L20: icon
+  L59: label
+  L60: icon
+=== com/samurai/vengine/screens/modmenu/TableSkinPreviewState.java ===
+  L40: skin
+  L57: skin
+=== com/samurai/vengine/screens/modmenu/UserInfoSnapshot.java ===
+  L28: displayName
+  L116: displayName
+=== com/samurai/vengine/screens/modmenu/skins/CachedTableSkin.java ===
+  L18: file
+  L19: preview
+  L45: file
+  L46: preview
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinAtlasDownload.java ===
+  L76: Incomplete atlas HTTP headers
+  L80: Atlas HTTP headers are too large
+  L84: Invalid atlas HTTP line ending
+  L88: Atlas HTTP headers are too large
+  L91: toString(...)
+  L95: Invalid atlas HTTP header
+  L137: Required value was null.
+  L145: Only verified table skin atlases may be downloaded
+  L230: Only verified table or cue artwork may be downloaded
+  L247: Only verified table or cue artwork may be downloaded
+  L256: https
+  L274: getBytes(...)
+  L338: Unverified image URL
+  L341: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinCatalog.java ===
+  L18: web73372-layout1
+  L33: monaco
+  L33: Monaco
+  L33: tableMonaco-hd.png
+  L33: london
+  L33: London
+  L33: tableLondon-hd.png
+  L33: sydney
+  L33: Sydney
+  L33: tableSydney-hd.png
+  L33: lisbon
+  L33: Lisbon
+  L33: tokyo
+  L33: Tokyo
+  L33: tableTokyo-hd.png
+  L33: lasvegas
+  L33: Las Vegas
+  L33: tableLosVegas-hd.png
+  L33: jakarta
+  L33: Jakarta
+  L33: tableJakarta-hd.png
+  L33: toronto
+  L33: Toronto
+  L33: tableToronto-hd.png
+  L33: cairo
+  L33: Cairo
+  L33: tableCairo-hd.png
+  L33: dubai
+  L33: Dubai
+  L33: tableDubai-hd.png
+  L33: shanghai
+  L33: Shanghai
+  L33: tableShanghai-hd.png
+  L33: paris
+  L33: Paris
+  L33: tableParis-hd.png
+  L33: rome
+  L33: Rome
+  L33: tableRome-hd.png
+  L33: bangkok
+  L33: Bangkok
+  L33: tableBangkok-hd.png
+  L33: seoul
+  L33: Seoul
+  L33: tableSeoul-hd.png
+  L33: mumbai
+  L33: Mumbai
+  L33: tableMumbai-hd.png
+  L33: berlin
+  L33: Berlin
+  L33: tableBerlin-hd.png
+  L33: osaka
+  L33: Osaka
+  L34: unmodifiableList(...)
+  L47: theme
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinCustomPreviewKt.java ===
+  L13: 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
+  L25: Required value was null.
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinFrames.java ===
+  L18: cloth
+  L19: side
+  L20: topLeft
+  L21: topRight
+  L65: cloth
+  L66: side
+  L67: topLeft
+  L68: topRight
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinImageValidation.java ===
+  L28: input
+  L32: RIFF
+  L32: WEBP
+  L48: input
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinLayout.java ===
+  L23: frame
+  L25: Invalid atlas dimensions
+  L28: Packed frame is outside its atlas
+  L31: Invalid source dimensions
+  L38: Trimmed frame is outside its untrimmed source
+  L44: frames
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinPlacement.java ===
+  L21: frame
+  L80: frame
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinRenderer.java ===
+  L42: apply(...)
+  L73: createBitmap(...)
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinRepository$prepare$result$1.java ===
+  L193: Required value was null.
+  L269: Unknown or modified table skin
+  L414: Required value was null.
+  L417: createScaledBitmap(...)
+  L573: call to 'resume' before 'invoke' with coroutine
+  L597: Required value was null.
+  L600: createScaledBitmap(...)
+  L759: Required value was null.
+  L762: createScaledBitmap(...)
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinRepository.java ===
+  L111: context
+  L167: Required value was null.
+  L170: .atlas-
+  L170: .tmp
+  L213: call to 'resume' before 'invoke' with coroutine
+  L250: Required value was null.
+  L375: Required value was null.
+  L378: .table-
+  L378: .tmp
+  L385: Cannot encode prepared table PNG
+  L395: Prepared table PNG failed full decode validation
+  L400: Cannot publish prepared table cache
+  L467: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/skins/TableSkinTheme.java ===
+  L18: id
+  L19: name
+  L63: id
+  L64: name
+=== com/samurai/vengine/screens/modmenu/skins/cues/CachedCueSkin.java ===
+  L18: file
+  L19: preview
+  L45: file
+  L46: preview
+=== com/samurai/vengine/screens/modmenu/skins/cues/CueSkinCatalog.java ===
+  L16: web73372-cues-v1
+  L20: archon_cue
+  L20: Archon Cue
+  L20: Table_Archon_Cue-hd.png
+  L20: firestorm_cue
+  L20: Firestorm Cue
+  L20: Table_Firestorm_Cue-hd.png
+  L20: valkyrie_cue
+  L20: Valkyrie Cue
+  L20: Table_Valkyrie_Cue-hd.png
+  L20: necromancer_cue
+  L20: Necromancer Cue
+  L20: Table_Necromancer_Cue-hd.png
+  L20: axion_cue
+  L20: Axion Cue
+  L20: Table_Axion_Cue-hd.png
+  L20: kraken_cue
+  L20: Kraken Cue
+  L20: Table_Kraken_Cue-hd.png
+  L20: excalibur_cue
+  L20: Excalibur Cue
+  L20: Table_Excalibur_Cue-hd.png
+  L20: mechatronic_cue
+  L20: Mechatronic Cue
+  L20: Table_Mechatronic_Cue-hd.png
+  L20: atlantis_cue
+  L20: Atlantis Cue
+  L20: Table_Atlantis_Cue-hd.png
+  L20: medusa_cue
+  L20: Medusa Cue
+  L20: Table_Medusa_Cue-hd.png
+  L20: antique_cue
+  L20: Antique Cue
+  L20: Table_Antique_Cue-hd.png
+  L20: white_shark_cue
+  L20: White Shark Cue
+  L20: Table_Predator_Shark_Cue-hd.png
+  L20: fortune_cue
+  L20: Fortune Cue
+  L20: Table_Chinese_Fortune_Cue-hd.png
+  L20: diwali_dhamaka_cue
+  L20: Diwali Dhamaka Cue
+  L20: Table_Diwali_Dhamaka_Cue-hd.png
+  L20: usa_cue
+  L20: USA Cue
+  L20: Table_USA_Cue-hd.png
+  L20: barbaric_cue
+  L20: Barbaric Cue
+  L20: Table_Barbaric_Cue-hd.png
+  L20: traditional_cue
+  L20: Traditional Cue
+  L20: Table_Traditional_Cue-hd.png
+  L20: tunisia_cue
+  L20: Tunisia Cue
+  L20: Table_Tunisia_Cue-hd.png
+  L20: frostbite_cue
+  L20: Frostbite Cue
+  L20: Table_Frostbite_Cue-hd.png
+  L20: mexico_city_temple_cue
+  L20: Mexico Awarded Cue
+  L20: Table_Mexico_Sun_Pyramid_Cue-hd.png
+  L20: bronze_cue
+  L20: Bronze Cue
+  L20: Table_Bronze_Cue-hd.png
+  L20: fury_cue
+  L20: Fury Cue
+  L20: Table_Nature_Fury_Cue-hd.png
+  L20: italy_cue
+  L20: Italy Cue
+  L20: Table_Italy_Cue-hd.png
+  L20: the_rock_cue
+  L20: The Rock Cue
+  L20: Table_TheRock_Cue-hd.png
+  L20: moonlight_demon_cue
+  L20: Demon Cue
+  L20: Table_Demon_Cue-hd.png
+  L20: amesterdam_cue
+  L20: Amsterdam Cue
+  L20: Table_Amsterdam_Cue-hd.png
+  L20: octoberfest_advanced_cue
+  L20: Advanced Oktoberfest Cue
+  L20: Table_Oktoberfest2_Cue-hd.png
+  L20: everlasting_cue
+  L20: Everlasting Cue
+  L20: Table_Everlasting_Cue-hd.png
+  L20: bald_eagle_cue
+  L20: Bald Eagle Cue
+  L20: Table_Predator_Eagle_Cue-hd.png
+  L20: hercules_cue
+  L20: Hercules Cue
+  L20: Table_Hercules_Cue-hd.png
+  L20: london_cue
+  L20: London Cue
+  L20: Table_London_Cue-hd.png
+  L20: moon_dust_cue
+  L20: Moon Dust Cue
+  L20: Table_Moon_Dust_Cue-hd.png
+  L20: alloy_cue
+  L20: Alloy Cue
+  L20: Table_Nature_Alloy_Cue-hd.png
+  L20: halloween_cue
+  L20: Halloween Cue
+  L20: Table_Halloween_Cue-hd.png
+  L20: 5bday_3_cue
+  L20: Premium Birthday Cue
+  L20: Table_5th3_Cue-hd.png
+  L20: hallowdracula_cue_name
+  L20: Dracula Halloween Cue
+  L20: Table_HallowDracula_Cue-hd.png
+  L20: blackmatte_cue
+  L20: Blackmatte Cue
+  L20: Table_Blackmatte_Cue-hd.png
+  L20: advanced_6th_birthday_cue
+  L20: Advanced 6th Birthday Cue
+  L20: Table_6th_Birthday_Advanced_Cue-hd.png
+  L20: beachball_cue_premium
+  L20: Premium X-Mas in July cue
+  L20: Table_XMasInJuly_Cue-hd.png
+  L20: morocco_cue
+  L20: Morocco Cue
+  L20: Table_Morocco_Cue-hd.png
+  L20: oscar_cue
+  L20: Academy Cue
+  L20: Table_Academy_Cue-hd.png
+  L20: robin_hood_cue
+  L20: Robin Hood Cue
+  L20: Table_RobinHood_Cue-hd.png
+  L20: japan_cue
+  L20: Japan Cue
+  L20: Table_Japan_Cue-hd.png
+  L20: romania_cue
+  L20: Romania Cue
+  L20: Table_Romania_Cue-hd.png
+  L20: philippines_cue
+  L20: Philippines Cue
+  L20: Table_Phillipines_Cue-hd.png
+  L20: chicago_cue
+  L20: Chicago Cue
+  L20: Table_Chicago_Cue-hd.png
+  L20: jaguar_cue
+  L20: Jaguar Cue
+  L20: Table_Jaguar_Cue-hd.png
+  L20: san_francisco_cue
+  L20: San Francisco Cue
+  L20: Table_San_Francisco_Cue-hd.png
+  L20: vintage_cue
+  L20: Vintage Cue
+  L20: Table_Vintage_Cue-hd.png
+  L20: sniper_cue
+  L20: Sniper Cue
+  L20: Table_Sniper_Cue-hd.png
+  L20: sachin_tendulkar_cue
+  L20: Sachin Saga Cue
+  L20: Table_Sachin_Tendulkar_Cue-hd.png
+  L20: christmas_cue
+  L20: Christmas Cue
+  L20: Table_Christmas_Cue-hd.png
+  L20: sakura_cue
+  L20: Sakura Cue
+  L20: Table_Sakura_Cue-hd.png
+  L20: walnut_cue
+  L20: Walnut Cue
+  L20: Table_Walnut_Cue-hd.png
+  L20: survivalist_cue
+  L20: Survivalist Cue
+  L20: Table_Survivalist_Cue-hd.png
+  L20: easter_2014_cue
+  L20: Easter Cue
+  L20: Table_Easter2014_Cue-hd.png
+  L20: test_tube_cue
+  L20: Test Tube Cue
+  L20: Table_Test_Tube_Cue-hd.png
+  L20: break_shot_guru_cue
+  L20: Break Shot Guru Cue
+  L20: Table_Guru_Break_Shot_Cue-hd.png
+  L20: greatsword_cue
+  L20: Greatsword Cue
+  L20: Table_Greatsword_Cue-hd.png
+  L20: ottoman_cue
+  L20: Ottoman Cue
+  L20: Table_Ottoman_Cue-hd.png
+  L21: unmodifiableList(...)
+=== com/samurai/vengine/screens/modmenu/skins/cues/CueSkinRepository$prepare$result$1.java ===
+  L219: samurai_cue_skins/web73372-cues-v1
+  L225: getPath(...)
+  L286: Required value was null.
+  L290: createScaledBitmap(...)
+  L292: Cannot copy cue preview
+  L378: Required value was null.
+  L382: createScaledBitmap(...)
+  L384: Cannot copy cue preview
+  L460: Required value was null.
+  L464: createScaledBitmap(...)
+  L466: Cannot copy cue preview
+  L494: Unknown or modified cue skin
+  L544: Required value was null.
+  L548: createScaledBitmap(...)
+  L550: Cannot copy cue preview
+  L632: Required value was null.
+  L636: createScaledBitmap(...)
+  L638: Cannot copy cue preview
+  L679: Required value was null.
+  L683: createScaledBitmap(...)
+  L685: Cannot copy cue preview
+  L732: Required value was null.
+  L736: createScaledBitmap(...)
+  L738: Cannot copy cue preview
+  L820: Required value was null.
+  L824: createScaledBitmap(...)
+  L826: Cannot copy cue preview
+  L867: Required value was null.
+  L871: createScaledBitmap(...)
+  L873: Cannot copy cue preview
+  L907: Required value was null.
+  L911: createScaledBitmap(...)
+  L913: Cannot copy cue preview
+  L995: Required value was null.
+  L999: createScaledBitmap(...)
+  L1001: Cannot copy cue preview
+  L1042: Required value was null.
+  L1046: createScaledBitmap(...)
+  L1048: Cannot copy cue preview
+  L1130: Required value was null.
+  L1134: createScaledBitmap(...)
+  L1136: Cannot copy cue preview
+  L1177: Required value was null.
+  L1181: createScaledBitmap(...)
+  L1183: Cannot copy cue preview
+  L1246: Required value was null.
+  L1250: createScaledBitmap(...)
+  L1252: Cannot copy cue preview
+  L1280: Required value was null.
+  L1284: createScaledBitmap(...)
+  L1286: Cannot copy cue preview
+  L1297: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/skins/cues/CueSkinRepository.java ===
+  L146: context
+  L192: Required value was null.
+  L195: .cue-image-
+  L195: .tmp
+  L269: call to 'resume' before 'invoke' with coroutine
+  L432: image/png
+  L432: image/webp
+  L548: call to 'resume' before 'invoke' with coroutine
+  L556: Prepared cue PNG failed complete RGBA decode validation
+  L561: Cannot publish prepared cue cache
+  L575: Required value was null.
+  L578: .cue-png-
+  L578: .tmp
+  L584: Cannot encode prepared cue PNG
+  L605: Prepared cue PNG failed complete RGBA decode validation
+  L610: Cannot publish prepared cue cache
+  L682: call to 'resume' before 'invoke' with coroutine
+=== com/samurai/vengine/screens/modmenu/skins/cues/CueSkinTheme.java ===
+  L20: id
+  L21: name
+  L22: imageFile
+  L81: id
+  L82: name
+  L83: imageFile
+
